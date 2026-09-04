@@ -4,7 +4,6 @@ metaTitle: "Activiteiten Spijkenisse | Bekijk alle activiteiten in Spijkenisse"
 slug: "activiteiten-spijkenisse"
 metaDescription: "Activiteiten in Spijkenisse en omgeving. Opzoek naar een leuke activiteit in Spijkenisse? Bekijk het overzicht op onze website."
 ---
-
 ## Activiteiten Spijkenisse
 
 Woon je in Spijkenisse of ben je in de buurt? Op deze pagina kun je alle activiteiten bekijken die in Spijkenisse georganiseerd worden. Het hele jaar door worden er diverse activiteiten georganiseerd om aan deel te nemen of te bezoeken.

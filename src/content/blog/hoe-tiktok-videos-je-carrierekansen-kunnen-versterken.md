@@ -1,8 +1,10 @@
 ---
 title: "Hoe TikTok-video’s je carrièrekansen kunnen versterken"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "hoe-tiktok-videos-je-carrierekansen-kunnen-versterken"
+metaDescription: "TikTok TikTok is tegenwoordig veel meer dan alleen een platform voor dansjes en grappige video’s. Het is een krachtige tool geworden waarmee je jezelf"
 ---
-
 TikTok
 
 TikTok is tegenwoordig veel meer dan alleen een platform voor dansjes en grappige video’s. Het is een krachtige tool geworden waarmee je jezelf kunt promoten en je carrièrekansen kunt vergroten. Of je

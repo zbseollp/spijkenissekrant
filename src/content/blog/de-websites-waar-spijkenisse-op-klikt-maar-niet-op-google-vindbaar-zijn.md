@@ -1,8 +1,10 @@
 ---
 title: "De websites waar Spijkenisse op klikt, maar niet op Google vindbaar zijn"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-websites-waar-spijkenisse-op-klikt-maar-niet-op-google-vindbaar-zijn"
+metaDescription: "Nieuws Niet alles wat populair is, staat bovenaan in Google. In Spijkenisse klikken steeds meer mensen op websites en platforms die buiten het bereik van"
 ---
-
 Nieuws
 
 Niet alles wat populair is, staat bovenaan in Google. In Spijkenisse klikken steeds meer mensen op websites en platforms die buiten het bereik van de grote zoekmachines blijven. Deze digitale ruimtes

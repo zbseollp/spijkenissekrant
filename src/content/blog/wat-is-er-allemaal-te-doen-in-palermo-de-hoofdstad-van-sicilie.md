@@ -1,8 +1,10 @@
 ---
 title: "Wat is er allemaal te doen in Palermo, de hoofdstad van Sicilië?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "wat-is-er-allemaal-te-doen-in-palermo-de-hoofdstad-van-sicilie"
+metaDescription: "Blog Palermo, de hoofdstad van Sicilië, belooft reizigers een betoverende ervaring doordrenkt met een rijke mix van cultuur, geschiedenis en culinaire"
 ---
-
 Blog
 
 Palermo, de hoofdstad van Sicilië, belooft reizigers een betoverende ervaring doordrenkt met een rijke mix van cultuur, geschiedenis en culinaire geneugten. Deze stad, gelegen aan de Tyrrheense Zee, b

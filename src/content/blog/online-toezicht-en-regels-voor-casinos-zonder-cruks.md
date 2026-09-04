@@ -1,6 +1,9 @@
 ---
 title: "Online Toezicht En Regels Voor Casino’s Zonder Cruks"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "online-toezicht-en-regels-voor-casinos-zonder-cruks"
+metaDescription: "Nieuws De Nederlandse gokmarkt is gereguleerd om spelers te beschermen, vooral de kwetsbare groepen. Cruks is een centraal register dat spelers uitsluit"
 ---
 
 Nieuws

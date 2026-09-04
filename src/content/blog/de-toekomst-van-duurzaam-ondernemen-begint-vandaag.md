@@ -1,8 +1,10 @@
 ---
 title: "De toekomst van duurzaam ondernemen begint vandaag"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-toekomst-van-duurzaam-ondernemen-begint-vandaag"
+metaDescription: "Blog Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard"
 ---
-
 Blog
 
 Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard om te volgen? Gelukkig zijn er plekken waar je over

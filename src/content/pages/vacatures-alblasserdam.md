@@ -4,7 +4,6 @@ metaTitle: "Vacatures Spijkenisse | Bekijk alle banen"
 slug: "vacatures-spijkenisse"
 metaDescription: "Vacatures in Spijkenisse en omgeving. Op zoek naar een baan in Spijkenisse? Bekijk alle banen op onze vacaturepagina."
 ---
-
 ## Vacatures Spijkenisse
 
 Is het tijd voor een nieuwe uitdaging of ben je net verhuisd naar Spijkenisse en zoek je naar een nieuwe baan? Ben je student en op zoek naar een vakantiebaantje of zoek je tijdelijk werk? Bekijk alle vacatures in de gemeente Spijkenisse op onze vacaturepagina. Wat je ook zoekt, fulltime of parttime, je vindt alle vacatures in de spijkenissekrant.

@@ -1,8 +1,10 @@
 ---
 title: "Ontdek alles over luxe haarverzorging"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "ontdek-alles-over-luxe-haarverzorging"
+metaDescription: "Blog Ontdek alles over luxe haarverzorging Ben jij een professional in de kappersbranche of gewoon iemand die houdt van luxe haarverzorgingsproducten? In"
 ---
-
 Blog
 
 Ontdek alles over luxe haarverzorging Ben jij een professional in de kappersbranche of gewoon iemand die houdt van luxe haarverzorgingsproducten? In dit artikel duiken we in enkele trends rondom luxe

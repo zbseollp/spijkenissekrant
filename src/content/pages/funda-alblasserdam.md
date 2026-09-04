@@ -4,7 +4,6 @@ metaTitle: "Funda Spijkenisse | woningen te koop in Spijkenisse"
 slug: "funda-spijkenisse"
 metaDescription: "Koop woningen online op Funda Spijkenisse. Nieuwbouwhuizen te koop in Spijkenisse, huurhuizen en appartementen in Spijkenisse."
 ---
-
 ## Funda Spijkenisse
 
 Welkom op de Funda Spijkenisse pagina. Ben je op zoek naar een nieuwe woning of appartement in Spijkenisse, bekijk dan het Funda overzicht. Er zit vast en zeker een mooi huis voor je bij in Spijkenisse.

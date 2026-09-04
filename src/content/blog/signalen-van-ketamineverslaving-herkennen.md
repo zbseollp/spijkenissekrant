@@ -1,8 +1,10 @@
 ---
 title: "Signalen van ketamineverslaving herkennen"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "signalen-van-ketamineverslaving-herkennen"
+metaDescription: "Blog Signalen van ketamineverslaving herkennen Ketamine wordt steeds vaker gebruikt als recreatieve drug, vooral onder jongeren. Het is echter niet altijd"
 ---
-
 Blog
 
 Signalen van ketamineverslaving herkennen Ketamine wordt steeds vaker gebruikt als recreatieve drug, vooral onder jongeren. Het is echter niet altijd duidelijk wanneer gebruik omslaat in een probleem.

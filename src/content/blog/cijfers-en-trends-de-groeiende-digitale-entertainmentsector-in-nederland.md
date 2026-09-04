@@ -1,8 +1,10 @@
 ---
 title: "Cijfers en Trends: De Groeiende Digitale Entertainmentsector in Nederland"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "cijfers-en-trends-de-groeiende-digitale-entertainmentsector-in-nederland"
+metaDescription: "Blog Cijfers en Trends: De Groeiende Digitale Entertainmentsector in Nederland De wereld van digitale entertainment groeit razendsnel en Nederland vormt"
 ---
-
 Blog
 
 Cijfers en Trends: De Groeiende Digitale Entertainmentsector in Nederland De wereld van digitale entertainment groeit razendsnel en Nederland vormt hierop geen uitzondering. Van streamingdiensten tot

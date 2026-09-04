@@ -4,7 +4,6 @@ metaTitle: "Schoorsteenveger Spijkenisse | Zie schoorsteenvegers in Spijkenisse"
 slug: "schoorsteenveger-spijkenisse"
 metaDescription: "Schoorsteenvegers in Spijkenisse en omgeving. Opzoek naar een schoorsteenveger in Spijkenisse? Bekijk ze allemaal op onze website."
 ---
-
 ## Schoorsteenveger Spijkenisse
 
 Heb je een schoorsteenveger uit Spijkenisse of omgeving nodig? We hebben alle schoorsteenvegers uit de buurt voor je op een rijtje gezet. Je kunt een offerte aanvragen en zo de verschillende schoorsteenvegers met elkaar vergelijken qua prijs.

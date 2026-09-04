@@ -1,8 +1,10 @@
 ---
 title: "De weekendhobbygids voor internationale online communities"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-weekendhobbygids-voor-internationale-online-communities"
+metaDescription: "Blog De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen,"
 ---
-
 Blog
 
 De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen, maar er is een andere wereld die minstens zo leuk is

@@ -1,6 +1,9 @@
 ---
 title: "Ontdek de verschillende soorten casino spellen"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "ontdek-de-verschillende-soorten-casino-spellen"
+metaDescription: "Blog Online casino spellen hebben de afgelopen jaren enorm aan populariteit gewonnen, vooral door hun toegankelijkheid en gemak. Steeds meer spelers"
 ---
 
 Blog

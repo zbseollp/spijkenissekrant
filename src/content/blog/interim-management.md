@@ -1,8 +1,10 @@
 ---
 title: "Interim management: de sleutel tot financiële stabiliteit"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "interim-management"
+metaDescription: "Blog Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de"
 ---
-
 Blog
 
 Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de financiële sector? Laten we dat eens nader bekijken.

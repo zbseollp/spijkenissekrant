@@ -1,8 +1,10 @@
 ---
 title: "De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-rechte-keuken-strakke-elegantie-en-praktische-ruimteoptimalisatie"
+metaDescription: "Blog De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de"
 ---
-
 Blog
 
 De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de rechte keuken misschien precies wat je nodig hebt.

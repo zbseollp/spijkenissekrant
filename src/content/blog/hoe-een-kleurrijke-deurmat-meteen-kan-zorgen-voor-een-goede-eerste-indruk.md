@@ -1,8 +1,10 @@
 ---
 title: "Hoe een kleurrijke deurmat meteen kan zorgen voor een goede eerste indruk"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "hoe-een-kleurrijke-deurmat-meteen-kan-zorgen-voor-een-goede-eerste-indruk"
+metaDescription: "Blog Een kleurrijke deurmat kan gelijk zorgen voor een goede eerste indruk. De voordeur is namelijk het eerste contactmoment en het eerste moment waarop"
 ---
-
 Blog
 
 Een kleurrijke deurmat kan gelijk zorgen voor een goede eerste indruk. De voordeur is namelijk het eerste contactmoment en het eerste moment waarop een gast jouw woning binnenstapt. Vooral een kleurri

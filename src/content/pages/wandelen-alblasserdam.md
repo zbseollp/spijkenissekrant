@@ -4,7 +4,6 @@ metaTitle: "Wandelen Spijkenisse | Bekijk alle wandelroutes in Spijkenisse"
 slug: "wandelen-spijkenisse"
 metaDescription: "Wandelen in Spijkenisse en omgeving. Op zoek naar een wandelroute in Spijkenisse? Bekijk alle wandelingen op onze wandel pagina."
 ---
-
 ## Wandelen Spijkenisse
 
 Ben je in Spijkenisse en heb je zin om te gaan wandelen? Wellicht door het centrum van Spijkenisse om de pracht en praal te bekijken. Ga je liever de natuur in? Kies dan voor een wandeling buiten Spijkenisse. De locatie biedt zowel korte wandelingen als uitgebreide dagtochten door de gemeente en omliggende regio's, geschikt voor elk ervaringsniveau.

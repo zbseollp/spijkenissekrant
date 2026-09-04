@@ -1,6 +1,9 @@
 ---
 title: "Hoe snel worden gekochte YouTube reacties toegevoegd?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "hoe-snel-worden-gekochte-youtube-reacties-toegevoegd"
+metaDescription: "YouTube YouTube is een dynamisch platform waarop content creators streven naar betrokkenheid en interactie met hun publiek. Een van de strategieën die"
 ---
 
 YouTube

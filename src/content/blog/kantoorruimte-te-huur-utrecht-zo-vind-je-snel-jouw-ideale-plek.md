@@ -1,8 +1,10 @@
 ---
 title: "Kantoorruimte te huur utrecht: zo vind je snel jouw ideale plek"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "kantoorruimte-te-huur-utrecht-zo-vind-je-snel-jouw-ideale-plek"
+metaDescription: "Blog Ben je er helemaal klaar mee om aan je keukentafel te werken tussen een halfvolle koffiemok en de kat die over je toetsenbord paradeert? Tijd om het"
 ---
-
 Blog
 
 Ben je er helemaal klaar mee om aan je keukentafel te werken tussen een halfvolle koffiemok en de kat die over je toetsenbord paradeert? Tijd om het serieuzer aan te pakken. Utrecht heeft volop opties

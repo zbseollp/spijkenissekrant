@@ -1,8 +1,10 @@
 ---
 title: "Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "kleine-bedrijfsunits-steeds-moeilijker-te-vinden-in-rotterdam"
+metaDescription: "Blog Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam De vraag naar kleinschalige bedrijfsruimte in Rotterdam stijgt, terwijl het aanbod"
 ---
-
 Blog
 
 Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam De vraag naar kleinschalige bedrijfsruimte in Rotterdam stijgt, terwijl het aanbod achterblijft. Wie als ondernemer of belegger een compac

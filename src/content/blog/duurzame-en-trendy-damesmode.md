@@ -1,8 +1,10 @@
 ---
 title: "Duurzame en trendy damesmode"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "duurzame-en-trendy-damesmode"
+metaDescription: "Blog Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en"
 ---
-
 Blog
 
 Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en of je er lang plezier van hebt. Duurzame mode is da

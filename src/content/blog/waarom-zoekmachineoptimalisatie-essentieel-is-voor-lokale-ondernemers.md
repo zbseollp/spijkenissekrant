@@ -1,8 +1,10 @@
 ---
 title: "Waarom zoekmachineoptimalisatie essentieel is voor lokale ondernemers"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "waarom-zoekmachineoptimalisatie-essentieel-is-voor-lokale-ondernemers"
+metaDescription: "Blog 30 april, 2025 In het huidige digitale tijdperk is een sterke online aanwezigheid geen luxe meer, maar een noodzaak voor bedrijven van elke omvang."
 ---
-
 Blog
 
 30 april, 2025 In het huidige digitale tijdperk is een sterke online aanwezigheid geen luxe meer, maar een noodzaak voor bedrijven van elke omvang. Met meer dan 90% van de consumenten die hun zoektoch

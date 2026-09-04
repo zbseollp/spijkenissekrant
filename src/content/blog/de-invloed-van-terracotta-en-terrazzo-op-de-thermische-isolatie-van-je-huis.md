@@ -1,8 +1,10 @@
 ---
 title: "De invloed van terracotta en terrazzo op de thermische isolatie van je huis"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-invloed-van-terracotta-en-terrazzo-op-de-thermische-isolatie-van-je-huis"
+metaDescription: "Blog De invloed van terracotta en terrazzo op de thermische isolatie van je huis Bij het kiezen van een vloer letten we vaak op stijl en onderhoud, maar"
 ---
-
 Blog
 
 De invloed van terracotta en terrazzo op de thermische isolatie van je huis Bij het kiezen van een vloer letten we vaak op stijl en onderhoud, maar de impact van een vloer op de thermische isolatie va

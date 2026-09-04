@@ -4,7 +4,6 @@ metaTitle: "Pedicure Spijkenisse | Bekijk alle pedicures in Spijkenisse"
 slug: "pedicure-spijkenisse"
 metaDescription: "Pedicures in Spijkenisse en omgeving. Opzoek naar een pedicure in Spijkenisse? Bekijk alle pedicures op onze website."
 ---
-
 ## Pedicure Spijkenisse
 
 Laat jij graag je voeten behandelen of heb je een pedicure nodig in Spijkenisse vanwege medische klachten aan je voeten? Na een pedicurebehandeling zijn je voeten heerlijk glad en de nagels weer goed verzorgd. Adviseren wij elke 6 weken een pedicurebehandeling als je last hebt van eelt, likdoorns, verdikte nagels of hielkloven.

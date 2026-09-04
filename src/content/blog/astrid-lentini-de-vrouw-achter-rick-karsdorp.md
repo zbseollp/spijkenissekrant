@@ -1,8 +1,10 @@
 ---
 title: "Astrid Lentini: de vrouw achter Rick Karsdorp"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "astrid-lentini-de-vrouw-achter-rick-karsdorp"
+metaDescription: "Blog Astrid Lentini: de vrouw achter Rick Karsdorp Astrid Lentini is de partner van de Nederlandse voetballer Rick Karsdorp, die sinds augustus 2024"
 ---
-
 Blog
 
 Astrid Lentini: de vrouw achter Rick Karsdorp Astrid Lentini is de partner van de Nederlandse voetballer Rick Karsdorp, die sinds augustus 2024 speelt als rechtsback voor PSV Eindhoven. Na

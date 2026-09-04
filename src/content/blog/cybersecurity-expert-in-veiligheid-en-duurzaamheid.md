@@ -1,8 +1,10 @@
 ---
 title: "Cybersecurity-expert in veiligheid en duurzaamheid"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "cybersecurity-expert-in-veiligheid-en-duurzaamheid"
+metaDescription: "Nieuws De wereld van oplaadinfrastructuur en batterijcellen is voortdurend in ontwikkeling. Met de groeiende afhankelijkheid van elektrische voertuigen en"
 ---
-
 Nieuws
 
 De wereld van oplaadinfrastructuur en batterijcellen is voortdurend in ontwikkeling. Met de groeiende afhankelijkheid van elektrische voertuigen en duurzame energiebronnen, wordt de noodzaak voor robu

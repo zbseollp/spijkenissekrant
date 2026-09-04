@@ -1,8 +1,10 @@
 ---
 title: "Spijkenisse Urban Games: sport, actie en avontuur in de stad"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "spijkenisse-urban-games"
+metaDescription: "Blog Spijkenisse Urban Games: sport, actie en avontuur in de stad Spijkenisse heeft een moderne uitstraling met veel ruimte voor sport en recreatie. Een"
 ---
-
 Blog
 
 Spijkenisse Urban Games: sport, actie en avontuur in de stad Spijkenisse heeft een moderne uitstraling met veel ruimte voor sport en recreatie. Een event als

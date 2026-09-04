@@ -1,8 +1,10 @@
 ---
 title: "Een symbool van trots, herinnering en verbondenheid"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "een-symbool-van-trots-herinnering-en-verbondenheid"
+metaDescription: "Blog Een symbool van trots, herinnering en verbondenheid Er zijn momenten in het jaar waarop de straten van Spijkenisse in kleur gehuld zijn. Rood, wit en"
 ---
-
 Blog
 
 Een symbool van trots, herinnering en verbondenheid Er zijn momenten in het jaar waarop de straten van Spijkenisse in kleur gehuld zijn. Rood, wit en blauw bewegen zachtjes in de wind boven gevels, sc

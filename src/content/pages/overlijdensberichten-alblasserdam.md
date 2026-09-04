@@ -4,7 +4,6 @@ metaTitle: "Overlijdensberichten Spijkenisse | Bekijk ze hier bij nieuwekerkaand
 slug: "overlijdensberichten-spijkenisse"
 metaDescription: "Overlijdensberichten in Spijkenisse en omgeving. Opzoek naar een overlijdensbericht in Spijkenisse? Bekijk ze hier allemaal."
 ---
-
 ## Overlijden Spijkenisse
 
 Bij ons lees je de meest recente overlijdensberichten uit Spijkenisse. Zoek op achternaam om familieberichten te vinden en je medeleven te betuigen aan nabestaanden.

@@ -4,7 +4,6 @@ metaTitle: "Massage Spijkenisse | Bekijk alle massagesalons in Spijkenisse"
 slug: "massage-spijkenisse"
 metaDescription: "Massagesalons in Spijkenisse en omgeving. Op zoek naar een massage in Spijkenisse? Bekijk alle massagesalons op onze massage pagina."
 ---
-
 ## Massagesalons in Spijkenisse
 
 Op zoek naar ontspanning of hulp bij spierspanning? Boek je massage bij een van de massagesalons in Spijkenisse. Je kunt genieten van een Thaise massage of een hot stone massage, onder andere bij de diverse salons in de gemeente.

@@ -1,8 +1,10 @@
 ---
 title: "Drukke zomer voor dakdekkers: regen zorgt voor 17% meer offerteaanvragen"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "drukke-zomer-voor-dakdekkers-regen-zorgt-voor-17-meer-offerteaanvragen"
+metaDescription: "Nieuws Nederland heeft deze zomer te maken met een uitzonderlijke hoeveelheid regen, wat resulteert in een aanzienlijke stijging van het aantal"
 ---
-
 Nieuws
 
 Nederland heeft deze zomer te maken met een uitzonderlijke hoeveelheid regen, wat resulteert in een aanzienlijke stijging van het aantal offerteaanvragen voor dakdekkers volgens het platform Dakdekker

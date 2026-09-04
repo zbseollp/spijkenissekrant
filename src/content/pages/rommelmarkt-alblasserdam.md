@@ -4,7 +4,6 @@ metaTitle: "Rommelmarkt Spijkenisse | Bekijk alle rommelmarkten in Spijkenisse"
 slug: "rommelmarkt-spijkenisse"
 metaDescription: "Rommelmarkten in Spijkenisse en omgeving. Opzoek naar een rommelmarkt in Spijkenisse? Bekijk ze allemaal op onze website."
 ---
-
 ## Rommelmarkt Spijkenisse
 
 In Spijkenisse worden regelmatig rommelmarkten georganiseerd. Bij ons lees je wanneer deze worden gehouden zodat jij kan komen struinen langs de diverse kraampjes.

@@ -1,8 +1,10 @@
 ---
 title: "Paul Roescher: eerst showroomroute, dan pas offerte vergelijken"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "paul-roescher-eerst-showroomroute-dan-pas-offerte-vergelijken"
+metaDescription: "Blog Begin met je route, niet met je prijs Je wilt straks blij zijn met je keuze op een gewone doordeweekse dag, niet alleen op het moment dat je tekent."
 ---
-
 Blog
 
 Begin met je route, niet met je prijs Je wilt straks blij zijn met je keuze op een gewone doordeweekse dag, niet alleen op het moment dat je tekent. Daarom werkt een showroomroute vaak beter dan metee

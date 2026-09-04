@@ -1,8 +1,10 @@
 ---
 title: "Verschillende manieren om je huis te verwarmen"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "verschillende-manieren-om-je-huis-te-verwarmen"
+metaDescription: "Blog Er zijn diverse opties om je huis te verwarmen, afhankelijk van je persoonlijke voorkeuren en het type woning. De meest gebruikelijke methode is"
 ---
-
 Blog
 
 Er zijn diverse opties om je huis te verwarmen, afhankelijk van je persoonlijke voorkeuren en het type woning. De meest gebruikelijke methode is centrale verwarming, waarbij een ketel water verwarmt e

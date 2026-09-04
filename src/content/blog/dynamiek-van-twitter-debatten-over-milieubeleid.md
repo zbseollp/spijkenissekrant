@@ -1,8 +1,10 @@
 ---
 title: "De dynamiek van Twitter debatten over milieubeleid"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "dynamiek-van-twitter-debatten-over-milieubeleid"
+metaDescription: "Sociale media Twitter heeft zich gevestigd als een krachtig platform voor het bespreken van diverse onderwerpen, waaronder milieubeleid. Debatten op"
 ---
-
 Sociale media
 
 Twitter heeft zich gevestigd als een krachtig platform voor het bespreken van diverse onderwerpen, waaronder milieubeleid. Debatten op Twitter bieden een forum waar verschillende standpunten kunnen wo

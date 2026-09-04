@@ -1,8 +1,10 @@
 ---
 title: "Wie is de vriend van Yibbi Jansen?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "yibbi-jansen-vriend"
+metaDescription: "Blog Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en"
 ---
-
 Blog
 
 Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en supporters trots maakte. Haar vader, voormalig hock

@@ -4,7 +4,6 @@ metaTitle: "Bekendmakingen Spijkenisse | spijkenissekrant.nl"
 slug: "bekendmakingen"
 metaDescription: "Blijf op de hoogte van aangevraagde of verleende vergunningen in Spijkenisse. Alle verbouwingen die momenteel in Spijkenisse plaatsvinden op een rij."
 ---
-
 ## Bekendmakingen Spijkenisse
 
 Dankzij de bekendmakingenspagina van onze krant blijf jij overal van op de hoogte. De website wordt dagelijks bijgewerkt om informatie zo snel mogelijk te delen. Bekijk alle bekendmakingen in Spijkenisse op deze pagina.

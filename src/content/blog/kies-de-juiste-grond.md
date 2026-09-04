@@ -1,8 +1,10 @@
 ---
 title: "Kies de juiste grond: verschillen en voordelen van tuinaarde en potgrond"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "kies-de-juiste-grond"
+metaDescription: "Blog Het verzorgen van een gezonde en bloeiende tuin begint bij de keuze van de juiste grond. Tuinaarde en potgrond zijn twee essentiële componenten voor"
 ---
-
 Blog
 
 Het verzorgen van een gezonde en bloeiende tuin begint bij de keuze van de juiste grond. Tuinaarde en potgrond zijn twee essentiële componenten voor elke tuinier, maar ze dienen verschillende doeleind

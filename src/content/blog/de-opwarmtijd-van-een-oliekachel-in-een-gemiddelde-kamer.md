@@ -1,8 +1,10 @@
 ---
 title: "De opwarmtijd van een oliekachel in een gemiddelde kamer"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-opwarmtijd-van-een-oliekachel-in-een-gemiddelde-kamer"
+metaDescription: "Blog De opwarmtijd van een oliekachel in een gemiddelde kamer Oliekachels zijn een populaire keuze om binnen korte tijd een ruimte comfortabel warm te"
 ---
-
 Blog
 
 De opwarmtijd van een oliekachel in een gemiddelde kamer Oliekachels zijn een populaire keuze om binnen korte tijd een ruimte comfortabel warm te maken. Ze zijn eenvoudig in gebruik, energiezuinig en

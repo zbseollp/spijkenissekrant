@@ -1,6 +1,9 @@
 ---
 title: "Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "hoe-hans-klok-een-onmisbaar-gezicht-werd-van-casino-entertainment-in-las-vegas"
+metaDescription: "Blog Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas Hans Klok en Las Vegas: het was een gouden combinatie. Terwijl we hem"
 ---
 
 Blog

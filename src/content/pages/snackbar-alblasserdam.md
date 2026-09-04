@@ -4,7 +4,6 @@ metaTitle: "Snackbar Spijkenisse | Bekijk alle snackbars in Spijkenisse"
 slug: "snackbar-spijkenisse"
 metaDescription: "Snackbar in Spijkenisse en omgeving. Op zoek naar een snackbar in Spijkenisse? Bekijk alle snackbars hier"
 ---
-
 ## Snackbar Spijkenisse
 
 Doe maar twee porties friet met ketchup, een kroket en een vegetarische frikandel. Heb jij ook zin om je eten af te halen bij de snackbar of cafetaria en lekker thuis op de bank te genieten van je snacks en een film te kijken?

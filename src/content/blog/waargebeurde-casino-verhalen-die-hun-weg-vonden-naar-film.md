@@ -1,6 +1,9 @@
 ---
 title: "Waargebeurde casino verhalen die hun weg vonden naar film"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "waargebeurde-casino-verhalen-die-hun-weg-vonden-naar-film"
+metaDescription: "Blog Waargebeurde casino verhalen die hun weg vonden naar film Casino’s vormen al decennialang een dankbaar decor voor films. Niet alleen vanwege de"
 ---
 
 Blog

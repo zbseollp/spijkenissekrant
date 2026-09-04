@@ -4,7 +4,6 @@ metaTitle: "Evenementen Spijkenisse | spijkenissekrant.nl"
 slug: "evenementen-spijkenisse"
 metaDescription: "Bekijk de evenementenagenda van Spijkenisse. Er worden heel vaak leuke evenementen georganiseerd in Spijkenisse, voor alle leeftijden."
 ---
-
 ## Evenementenagenda van Spijkenisse
 
 Er worden heel vaak leuke evenementen georganiseerd in Spijkenisse. Evenementen in diverse genres en voor alle leeftijden. Er zal dus sowieso ook een leuke activiteit voor jou tussen zitten om aan deel te nemen of te bezoeken.

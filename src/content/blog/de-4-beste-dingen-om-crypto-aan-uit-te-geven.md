@@ -1,8 +1,10 @@
 ---
 title: "De 4 beste dingen om crypto aan uit te geven"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "de-4-beste-dingen-om-crypto-aan-uit-te-geven"
+metaDescription: "Blog In Nederland wonen inmiddels zo’n 2,5 miljoen crypto bezitters. Alhoewel de meeste Hollanders digitale valuta louter als beleggingsmogelijkheid zien,"
 ---
-
 Blog
 
 In Nederland wonen inmiddels zo’n 2,5 miljoen crypto bezitters. Alhoewel de meeste Hollanders digitale valuta louter als beleggingsmogelijkheid zien, stellen steeds meer webshops en online dienstverle
