@@ -5,7 +5,6 @@ date: "2024-01-01"
 slug: "zijn-carice-van-houten-en-guy-pearce-uit-elkaar"
 metaDescription: "Blog Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar"
 ---
-
 Blog
 
 Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar kennen op de set van de film Brimstone, waarin beiden
