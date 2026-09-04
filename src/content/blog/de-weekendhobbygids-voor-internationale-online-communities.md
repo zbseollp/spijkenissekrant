@@ -3,19 +3,13 @@ title: "De weekendhobbygids voor internationale online communities"
 pubDate: "2025-08-12"
 date: "2025-08-12"
 slug: "de-weekendhobbygids-voor-internationale-online-communities"
-metaDescription: "Blog De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen,"
+metaDescription: "De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen,"
 ---
-Blog
-
 De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen, maar er is een andere wereld die minstens zo leuk is
 
 Redactie SpijkenisseKrant12 augustus 2025
 
-![De weekendhobbygids voor internationale online communities](https://spijkenissekrant.nl/wp-content/uploads/2025/08/Online-222.jpg)
-
 * augustus 12, 2025
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/08/Online-222.jpg)
 
 Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen, maar er is een andere wereld die minstens zo leuk is: internationale online communities. Daar vind je mensen die jouw passie delen, waar ter wereld ze ook zitten. En het mooie? Je kunt er op elk moment inspringen, zonder reistijd of afspraak.
 

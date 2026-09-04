@@ -3,17 +3,11 @@ title: "Wist jij dat je online al een gokje kunt wagen met slechts €10?"
 pubDate: "2025-09-18"
 date: "2025-09-18"
 slug: "wist-jij-dat-je-online-al-een-gokje-kunt-wagen-met-slechts-e10"
-metaDescription: "Blog Wist jij dat je online al een gokje kunt wagen met slechts €10? Alles wordt steeds maar duurder. Een avondje uit kan dus ook al snel in de papieren"
+metaDescription: "Wist jij dat je online al een gokje kunt wagen met slechts €10? Alles wordt steeds maar duurder. Een avondje uit kan dus ook al snel in de papieren"
 ---
-Blog
-
 Wist jij dat je online al een gokje kunt wagen met slechts €10? Alles wordt steeds maar duurder. Een avondje uit kan dus ook al snel in de papieren lopen. Denk aan een hapje eten of een bezoek aan The
 
 Redactie SpijkenisseKrant18 september 2025
-
-![Wist jij dat je online al een gokje kunt wagen met slechts €10? ](https://spijkenissekrant.nl/wp-content/uploads/2025/09/671ff272-cd65-48ac-91ca-1643422e72ce-scaled.jpeg)
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/09/671ff272-cd65-48ac-91ca-1643422e72ce-683x1024.jpeg)
 
 * september 18, 2025
 

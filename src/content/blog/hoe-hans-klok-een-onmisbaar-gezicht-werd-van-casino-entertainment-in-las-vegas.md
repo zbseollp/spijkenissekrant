@@ -3,19 +3,13 @@ title: "Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las
 pubDate: "2025-07-22"
 date: "2025-07-22"
 slug: "hoe-hans-klok-een-onmisbaar-gezicht-werd-van-casino-entertainment-in-las-vegas"
-metaDescription: "Blog Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas Hans Klok en Las Vegas: het was een gouden combinatie. Terwijl we hem"
+metaDescription: "Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas Hans Klok en Las Vegas: het was een gouden combinatie. Terwijl we hem"
 ---
-Blog
-
 Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas Hans Klok en Las Vegas: het was een gouden combinatie. Terwijl we hem in Nederland vooral kennen van zijn razendsnelle il
 
 Redactie SpijkenisseKrant22 juli 2025
 
-![Hoe Hans Klok een onmisbaar gezicht werd van casino-entertainment in Las Vegas](https://spijkenissekrant.nl/wp-content/uploads/2025/07/kvnga-vBWsG91aR_U-unsplash-scaled.jpg)
-
 * juli 22, 2025
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/07/kvnga-vBWsG91aR_U-unsplash-scaled.jpg)
 
 **Hans Klok en Las Vegas**: het was een gouden combinatie. Terwijl we hem in Nederland vooral kennen van zijn **razendsnelle illusies** en **televisieoptredens**, werd hij in Las Vegas een essentieel onderdeel van de bruisende casino-entertainmentindustrie. Zijn magie was geen bijzaak, maar een strategisch onderdeel van het gokimperium op de Strip.
 

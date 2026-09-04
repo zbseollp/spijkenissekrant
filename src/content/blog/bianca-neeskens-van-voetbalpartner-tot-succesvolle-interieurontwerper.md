@@ -3,10 +3,8 @@ title: "Bianca Neeskens: van voetbalpartner tot succesvolle interieurontwerper"
 pubDate: "2025-03-05"
 date: "2025-03-05"
 slug: "bianca-neeskens-van-voetbalpartner-tot-succesvolle-interieurontwerper"
-metaDescription: "Blog Bianca Neeskens: van voetbalpartner tot succesvolle interieurontwerper Bianca Neeskens is wellicht bij velen bekend als de vriendin van"
+metaDescription: "Bianca Neeskens: van voetbalpartner tot succesvolle interieurontwerper Bianca Neeskens is wellicht bij velen bekend als de vriendin van"
 ---
-Blog
-
 Bianca Neeskens: van voetbalpartner tot succesvolle interieurontwerper Bianca Neeskens is wellicht bij velen bekend als de vriendin van profvoetballer Ricky van Wolfswinkel. Echter, ze heeft haar
 
 Redactie SpijkenisseKrant5 maart 2025

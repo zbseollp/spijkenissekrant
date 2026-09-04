@@ -3,19 +3,13 @@ title: "Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze 
 pubDate: "2025-02-27"
 date: "2025-02-27"
 slug: "carriereswitch-of-groei-in-je-huidige-baan"
-metaDescription: "Blog Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching Werk verandert voortdurend en vraagt om bewuste keuzes in"
+metaDescription: "Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching Werk verandert voortdurend en vraagt om bewuste keuzes in"
 ---
-Blog
-
 Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching Werk verandert voortdurend en vraagt om bewuste keuzes in loopbaanontwikkeling.
 
 Redactie SpijkenisseKrant27 februari 2025
 
-![Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching](https://spijkenissekrant.nl/wp-content/uploads/2025/02/mediensturmer-aWf7mjwwJJo-unsplash-1-scaled.jpg)
-
 * februari 27, 2025
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/02/mediensturmer-aWf7mjwwJJo-unsplash-1-scaled.jpg)
 
 Werk verandert voortdurend en vraagt om bewuste keuzes in loopbaanontwikkeling. Sommige mensen voelen zich vastzitten terwijl anderen juist kansen zien voor groei en verandering. Loopbaancoaching helpt bij het vinden van een richting die energie geeft. [Bartels Coaches](https://www.bartelscoaches.nl/) biedt ondersteuning bij het ontdekken van talenten en het maken van toekomstgerichte keuzes. Een carrièreswitch maken kan spannend zijn maar soms is doorgroeien binnen de huidige functie een betere optie. Weten wat energie geeft en welke vaardigheden benut kunnen worden maakt het makkelijker om knopen door te hakken. Werkplezier ontstaat wanneer taken en ambities goed op elkaar aansluiten. Structuur en begeleiding helpen om twijfels om te zetten in actie.
 

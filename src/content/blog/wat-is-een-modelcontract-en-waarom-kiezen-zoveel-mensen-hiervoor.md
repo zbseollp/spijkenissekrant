@@ -3,17 +3,11 @@ title: "Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor?"
 pubDate: "2025-09-10"
 date: "2025-09-10"
 slug: "wat-is-een-modelcontract-en-waarom-kiezen-zoveel-mensen-hiervoor"
-metaDescription: "Blog Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor? Je hoort het steeds vaker: mensen stappen over naar een modelcontract voor hun"
+metaDescription: "Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor? Je hoort het steeds vaker: mensen stappen over naar een modelcontract voor hun"
 ---
-Blog
-
 Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor? Je hoort het steeds vaker: mensen stappen over naar een modelcontract voor hun energie. Het klinkt bijna als een modeshow voor contrac
 
 Redactie SpijkenisseKrant10 september 2025
-
-![Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor?](https://spijkenissekrant.nl/wp-content/uploads/2025/08/pexels-pixabay-259580.jpg)
-
-![Modelcontract uitleg energie](https://spijkenissekrant.nl/wp-content/uploads/2025/08/pexels-pixabay-259580-1024x682.jpg)
 
 * september 10, 2025
 

@@ -3,15 +3,11 @@ title: "Interim management: de sleutel tot financiële stabiliteit"
 pubDate: "2026-01-28"
 date: "2026-01-28"
 slug: "interim-management"
-metaDescription: "Blog Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de"
+metaDescription: "Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de"
 ---
-Blog
-
 Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de financiële sector? Laten we dat eens nader bekijken.
 
 Redactie SpijkenisseKrant28 januari 2026
-
-![Interim management: de sleutel tot financiële stabiliteit](https://spijkenissekrant.nl/wp-content/uploads/2026/01/image.png)
 
 Interim management is een term die je misschien wel eens hebt gehoord, maar wat betekent het precies? En waarom is het zo belangrijk, vooral in de financiële sector? Laten we dat eens nader bekijken.
 

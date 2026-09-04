@@ -3,10 +3,8 @@ title: "René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volks
 pubDate: "2026-02-16"
 date: "2026-02-16"
 slug: "rene-zegerius-partner-van-dilan-yesilgoz"
-metaDescription: "Blog René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volksgezondheid René Zegerius is een Nederlandse expert op het gebied van"
+metaDescription: "René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volksgezondheid René Zegerius is een Nederlandse expert op het gebied van"
 ---
-Blog
-
 René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volksgezondheid René Zegerius is een Nederlandse expert op het gebied van volksgezondheid met ruime ervaring binnen de GGD Amsterdam en
 
 Redactie SpijkenisseKrant16 februari 2026

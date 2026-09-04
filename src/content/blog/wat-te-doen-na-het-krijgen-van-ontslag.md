@@ -3,15 +3,11 @@ title: "Wat te doen na het krijgen van ontslag?"
 pubDate: "2025-10-29"
 date: "2025-10-29"
 slug: "wat-te-doen-na-het-krijgen-van-ontslag"
-metaDescription: "Blog Wat te doen na het krijgen van ontslag? Het krijgen van ontslag is een vervelende situatie die je lang niet altijd aan ziet komen. Je weet dat je"
+metaDescription: "Wat te doen na het krijgen van ontslag? Het krijgen van ontslag is een vervelende situatie die je lang niet altijd aan ziet komen. Je weet dat je"
 ---
-Blog
-
 Wat te doen na het krijgen van ontslag? Het krijgen van ontslag is een vervelende situatie die je lang niet altijd aan ziet komen. Je weet dat je weer moet gaan zoeken naar vacatures die bij je passen
 
 Redactie SpijkenisseKrant29 oktober 2025
-
-![Wat te doen na het krijgen van ontslag?](https://spijkenissekrant.nl/wp-content/uploads/2025/10/Na-ontslag.jpg)
 
 * oktober 29, 2025
 

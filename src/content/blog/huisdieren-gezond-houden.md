@@ -11,8 +11,6 @@ Zou jij graag willen weten hoe je ervoor kunt zorgen dat jouw huisdieren zo gezo
 
 Redactie SpijkenisseKrant18 september 2024
 
-![Hoe zorg je ervoor dat jouw huisdieren gezond blijven](https://spijkenissekrant.nl/wp-content/uploads/2024/09/gezondheid-huisdieren.jpg)
-
 Zou jij graag willen weten hoe je ervoor kunt zorgen dat jouw huisdieren zo gezond mogelijk blijven? Er zijn meerdere facetten die hier een rol in spelen. In de tekst hieronder zal er worden toegelicht hoe jij ervoor kunt zorgen dat jouw huisdier zolang mogelijk gezond blijft. Het maakt niet uit of je een hond, kat, kip, konijn of cavia hebt, in deze blog wordt beschreven hoe je jouw huisdier zolang mogelijk gezond kan houden!
 
 ## Juiste voeding
@@ -22,8 +20,6 @@ Wellicht weet van jezelf, dat voeding erg belangrijk is. Zoals wij gezonder kunn
 ## Beweging
 
 Daarnaast is het misschien wel net zo belangrijk dat jij je huisdier voldoende laat bewegen. Net zoals bij ons, is het goed voor je huisdier om hem iedere dag te laten bewegen. Dit kan bijvoorbeeld voor met honden een rondje te hardlopen, ze te laten zwemmen of spelen met een bal in de tuin. Natuurlijk is het begrijpelijk dat dit niet voor ieder huisdier mogelijk is. Het is natuurlijk lastig om een vis of cavia te laten bewegen, toch adviseren we om er op te letten.
-
-![huisdieren gezond](https://spijkenissekrant.nl/wp-content/uploads/2024/09/gezonde-huisdieren.jpg)
 
 ## Een dierenarts
 

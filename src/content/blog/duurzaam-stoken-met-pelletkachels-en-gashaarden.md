@@ -3,16 +3,8 @@ title: "Duurzaam stoken met pelletkachels en gashaarden"
 pubDate: "2024-10-14"
 date: "2024-10-14"
 slug: "duurzaam-stoken-met-pelletkachels-en-gashaarden"
-metaDescription: "Blog Bij verwarming zijn pelletkachels en gashaarden populaire keuzes voor veel huishoudens. Beide bieden een efficiënte manier om je huis te verwarmen en"
+metaDescription: "Bij verwarming zijn pelletkachels en gashaarden populaire keuzes voor veel huishoudens. Beide bieden een efficiënte manier om je huis te verwarmen en"
 ---
-Blog
-
-Bij verwarming zijn pelletkachels en gashaarden populaire keuzes voor veel huishoudens. Beide bieden een efficiënte manier om je huis te verwarmen en creëren een gezellige sfeer. Maar wat zijn de spec
-
-Redactie SpijkenisseKrant14 oktober 2024
-
-![Duurzaam stoken met pelletkachels en gashaarden](https://spijkenissekrant.nl/wp-content/uploads/2024/10/pexels-esteban-santiago-gonzalez-239179106-12441652.jpg)
-
 Bij verwarming zijn pelletkachels en gashaarden populaire keuzes voor veel huishoudens. Beide bieden een efficiënte manier om je huis te verwarmen en creëren een gezellige sfeer. Maar wat zijn de specifieke voordelen van elk type? In dit artikel duiken we dieper in de werking, voordelen en tips voor de aanschaf van pelletkachels en gashaarden. Zo ben je goed geïnformeerd en kun je de beste keuze maken voor jouw situatie.
 
 ## Duurzaam stoken

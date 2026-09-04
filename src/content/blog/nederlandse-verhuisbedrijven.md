@@ -3,16 +3,8 @@ title: "Nederlandse verhuisbedrijven: een blik achter de schermen"
 pubDate: "2026-01-28"
 date: "2026-01-28"
 slug: "nederlandse-verhuisbedrijven"
-metaDescription: "Blog Verhuizen is voor veel mensen een ingrijpende gebeurtenis. Of het nu gaat om een eerste appartement, een gezinswoning of een kleinere woning na jaren"
+metaDescription: "Verhuizen is voor veel mensen een ingrijpende gebeurtenis. Of het nu gaat om een eerste appartement, een gezinswoning of een kleinere woning na jaren"
 ---
-Blog
-
-Verhuizen is voor veel mensen een ingrijpende gebeurtenis. Of het nu gaat om een eerste appartement, een gezinswoning of een kleinere woning na jaren op dezelfde plek: een verhuizing markeert vaak een
-
-Redactie SpijkenisseKrant28 januari 2026
-
-![Nederlandse verhuisbedrijven: een blik achter de schermen](https://spijkenissekrant.nl/wp-content/uploads/2026/01/Verhuisdozen.jpg)
-
 Verhuizen is voor veel mensen een ingrijpende gebeurtenis. Of het nu gaat om een eerste appartement, een gezinswoning of een kleinere woning na jaren op dezelfde plek: een verhuizing markeert vaak een nieuw begin. In Nederland spelen verhuisbedrijven al decennialang een belangrijke rol in dit proces. Toch blijft hun werk voor veel mensen grotendeels onzichtbaar.
 
 ## Een diverse sector met lokale wortels

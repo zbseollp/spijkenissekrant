@@ -3,14 +3,8 @@ title: "Zijn Carice van Houten en Guy Pearce uit elkaar?"
 pubDate: "2024-12-23"
 date: "2024-12-23"
 slug: "zijn-carice-van-houten-en-guy-pearce-uit-elkaar"
-metaDescription: "Blog Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar"
+metaDescription: "Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar"
 ---
-Blog
-
-Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar kennen op de set van de film Brimstone, waarin beiden
-
-Redactie SpijkenisseKrant23 december 2024
-
 Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar kennen op de set van de film *Brimstone*, waarin beiden een rol speelden. Hun relatie begon kort na de scheiding van Pearce van zijn toenmalige echtgenote, wat aanvankelijk leidde tot speculaties over de stabiliteit van hun band.
 
 In augustus 2016 verwelkomden Carice en Guy hun zoon Monte. Het gezin heeft zich gevestigd in Amstelveen, Nederland, waar ze naar verluidt sinds 2020 samenwonen in een ruime woning.

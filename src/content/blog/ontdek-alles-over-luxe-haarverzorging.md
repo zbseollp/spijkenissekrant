@@ -3,15 +3,11 @@ title: "Ontdek alles over luxe haarverzorging"
 pubDate: "2025-10-23"
 date: "2025-10-23"
 slug: "ontdek-alles-over-luxe-haarverzorging"
-metaDescription: "Blog Ontdek alles over luxe haarverzorging Ben jij een professional in de kappersbranche of gewoon iemand die houdt van luxe haarverzorgingsproducten? In"
+metaDescription: "Ontdek alles over luxe haarverzorging Ben jij een professional in de kappersbranche of gewoon iemand die houdt van luxe haarverzorgingsproducten? In"
 ---
-Blog
-
 Ontdek alles over luxe haarverzorging Ben jij een professional in de kappersbranche of gewoon iemand die houdt van luxe haarverzorgingsproducten? In dit artikel duiken we in enkele trends rondom luxe
 
 Redactie SpijkenisseKrant23 oktober 2025
-
-![Ontdek alles over luxe haarverzorging](https://spijkenissekrant.nl/wp-content/uploads/2025/10/Luxe-haarverzorging.jpg)
 
 * oktober 23, 2025
 

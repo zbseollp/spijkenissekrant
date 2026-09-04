@@ -11,8 +11,6 @@ Twitter heeft zich gevestigd als een krachtig platform voor het bespreken van di
 
 Redactie SpijkenisseKrant20 april 2024
 
-![De dynamiek van Twitter debatten over milieubeleid](https://spijkenissekrant.nl/wp-content/uploads/2024/04/Twitter-Blue.webp)
-
 Twitter heeft zich gevestigd als een krachtig platform voor het bespreken van diverse onderwerpen, waaronder milieubeleid. Debatten op Twitter bieden een forum waar verschillende standpunten kunnen worden gedeeld, besproken en betwist. Milieubeleid is een van de meest gepassioneerde en controversiële onderwerpen op het platform, waarbij activisten, beleidsmakers, wetenschappers en burgers hun stem laten horen over kwesties zoals klimaatverandering, duurzaamheid en natuurbescherming.
 
 ## **De rol van Twitter in het milieudebat**

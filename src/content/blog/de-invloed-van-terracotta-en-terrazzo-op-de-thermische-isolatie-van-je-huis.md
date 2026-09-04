@@ -3,15 +3,11 @@ title: "De invloed van terracotta en terrazzo op de thermische isolatie van je h
 pubDate: "2024-11-06"
 date: "2024-11-06"
 slug: "de-invloed-van-terracotta-en-terrazzo-op-de-thermische-isolatie-van-je-huis"
-metaDescription: "Blog De invloed van terracotta en terrazzo op de thermische isolatie van je huis Bij het kiezen van een vloer letten we vaak op stijl en onderhoud, maar"
+metaDescription: "De invloed van terracotta en terrazzo op de thermische isolatie van je huis Bij het kiezen van een vloer letten we vaak op stijl en onderhoud, maar"
 ---
-Blog
-
 De invloed van terracotta en terrazzo op de thermische isolatie van je huis Bij het kiezen van een vloer letten we vaak op stijl en onderhoud, maar de impact van een vloer op de thermische isolatie va
 
 Redactie SpijkenisseKrant6 november 2024
-
-![De invloed van terracotta en terrazzo op de thermische isolatie van je huis](https://spijkenissekrant.nl/wp-content/uploads/2024/11/yzina-terrazzolook-tegel-roma-60x120cm-multicolor-888918.webp)
 
 * november 6, 2024
 

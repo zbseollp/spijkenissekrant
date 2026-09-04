@@ -11,8 +11,6 @@ In ieder huishouden komen vieze geurtjes in de keuken weleens voor. Dat is natuu
 
 Redactie SpijkenisseKrant24 januari 2026
 
-![4 Manieren om vaarwel te zeggen tegen vieze geurtjes in de keuken](https://spijkenissekrant.nl/wp-content/uploads/2026/01/henry-kobutra-9vFTBI69Udo-unsplash.jpg)
-
 In ieder huishouden komen vieze geurtjes in de keuken weleens voor. Dat is natuurlijk ontzettend vervelend, omdat het voor veel overlast kan zorgen. Er zijn een aantal dingen die een vieze lucht kunnen veroorzaken. Toch kan het soms lastig zijn om te achterhalen waar de geur vandaan komt. Gelukkig zijn er verschillende manieren om deze geurtjes aan te pakken en je keuken weer fris en schoon te laten ruiken. Daar gaan we in dit artikel dieper op in.
 
 ## Pak het probleem aan bij de oorzaak

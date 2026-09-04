@@ -3,10 +3,8 @@ title: "Ramona Streekstra: Wie is de ex-vrouw van Wesley Sneijder?"
 pubDate: "2026-02-16"
 date: "2026-02-16"
 slug: "ramona-streekstra-de-ex-vrouw-van-wesley-sneijder"
-metaDescription: "Blog Ramona Streekstra: Wie is de ex-vrouw van Wesley Sneijder? Ramona Streekstra is een naam die bij veel voetballiefhebbers bekend in de oren klinkt,"
+metaDescription: "Ramona Streekstra: Wie is de ex-vrouw van Wesley Sneijder? Ramona Streekstra is een naam die bij veel voetballiefhebbers bekend in de oren klinkt,"
 ---
-Blog
-
 Ramona Streekstra: Wie is de ex-vrouw van Wesley Sneijder? Ramona Streekstra is een naam die bij veel voetballiefhebbers bekend in de oren klinkt, vooral als de eerste echtgenote van voormalig profvoe
 
 Redactie SpijkenisseKrant16 februari 2026

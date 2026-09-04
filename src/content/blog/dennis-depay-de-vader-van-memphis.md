@@ -3,10 +3,8 @@ title: "Dennis Depay: de vader van Memphis en hun moeizame relatie"
 pubDate: "2025-03-06"
 date: "2025-03-06"
 slug: "dennis-depay-de-vader-van-memphis"
-metaDescription: "Blog Dennis Depay: de vader van Memphis en hun moeizame relatie Dennis Depay is de vader van Nederlands international Memphis Depay. Hij werd geboren in"
+metaDescription: "Dennis Depay: de vader van Memphis en hun moeizame relatie Dennis Depay is de vader van Nederlands international Memphis Depay. Hij werd geboren in"
 ---
-Blog
-
 Dennis Depay: de vader van Memphis en hun moeizame relatie Dennis Depay is de vader van Nederlands international Memphis Depay. Hij werd geboren in Cape Coast, Ghana en
 
 Redactie SpijkenisseKrant6 maart 2025

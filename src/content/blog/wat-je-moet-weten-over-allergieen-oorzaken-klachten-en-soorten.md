@@ -3,17 +3,11 @@ title: "Wat je moet weten over allergieën: oorzaken, klachten en soorten"
 pubDate: "2025-08-27"
 date: "2025-08-27"
 slug: "wat-je-moet-weten-over-allergieen-oorzaken-klachten-en-soorten"
-metaDescription: "Blog Wat je moet weten over allergieën: oorzaken, klachten en soorten Allergieën zijn inmiddels een bekend fenomeen: miljoenen mensen in Nederland hebben"
+metaDescription: "Wat je moet weten over allergieën: oorzaken, klachten en soorten Allergieën zijn inmiddels een bekend fenomeen: miljoenen mensen in Nederland hebben"
 ---
-Blog
-
 Wat je moet weten over allergieën: oorzaken, klachten en soorten Allergieën zijn inmiddels een bekend fenomeen: miljoenen mensen in Nederland hebben ermee te maken. Toch bestaan er nog altijd veel vra
 
 Redactie SpijkenisseKrant27 augustus 2025
-
-![Wat je moet weten over allergieën: oorzaken, klachten en soorten](https://spijkenissekrant.nl/wp-content/uploads/2025/08/allergie.png)
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/08/allergie.png)
 
 * augustus 27, 2025
 

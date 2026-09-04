@@ -3,14 +3,8 @@ title: "Dit is de vriend van Hélène Hendriks"
 pubDate: "2024-12-23"
 date: "2024-12-23"
 slug: "helene-hendriks-vriend-partner"
-metaDescription: "Blog Hélène Hendriks, de populaire Nederlandse sportpresentatrice, is niet alleen een bekend gezicht op televisie, maar ook een meester in het bewaken van"
+metaDescription: "Hélène Hendriks, de populaire Nederlandse sportpresentatrice, is niet alleen een bekend gezicht op televisie, maar ook een meester in het bewaken van"
 ---
-Blog
-
-Hélène Hendriks, de populaire Nederlandse sportpresentatrice, is niet alleen een bekend gezicht op televisie, maar ook een meester in het bewaken van haar privéleven. Toch is er recent meer bekend gew
-
-Redactie SpijkenisseKrant23 december 2024
-
 Hélène Hendriks, de populaire Nederlandse sportpresentatrice, is niet alleen een bekend gezicht op televisie, maar ook een meester in het bewaken van haar privéleven. Toch is er recent meer bekend geworden over haar vriend, Frans Vinju, een bijzondere man die een prominente rol speelt in haar persoonlijke leven.
 
 ## Wie is Frans Vinju?

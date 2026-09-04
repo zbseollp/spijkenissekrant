@@ -11,8 +11,6 @@ Handelen in de EURUSD is als een achtbaanrit: vol spanning, ups en downs, en een
 
 Redactie SpijkenisseKrant6 augustus 2024
 
-![Alles wat je moet weten over handelen in EURUSD](https://spijkenissekrant.nl/wp-content/uploads/2024/08/pexels-pixabay-459653.jpg)
-
 Handelen in de EURUSD is als een achtbaanrit: vol spanning, ups en downs, en een flinke dosis adrenaline. Deze wereld van valutahandel kan je binnen een mum van tijd verslaafd maken, maar wees gerust, we nemen je mee op een luchtige, grappige en vooral begrijpelijke reis door de forex jungle. Pak je favoriete drankje, leun achterover, en laten we duiken in alles wat je moet weten over handelen in EURUSD!
 
 ## De basics van de EURUSD: wat is het en waarom is het belangrijk?

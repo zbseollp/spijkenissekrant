@@ -3,17 +3,11 @@ title: "Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam"
 pubDate: "2025-08-30"
 date: "2025-08-30"
 slug: "kleine-bedrijfsunits-steeds-moeilijker-te-vinden-in-rotterdam"
-metaDescription: "Blog Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam De vraag naar kleinschalige bedrijfsruimte in Rotterdam stijgt, terwijl het aanbod"
+metaDescription: "Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam De vraag naar kleinschalige bedrijfsruimte in Rotterdam stijgt, terwijl het aanbod"
 ---
-Blog
-
 Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam De vraag naar kleinschalige bedrijfsruimte in Rotterdam stijgt, terwijl het aanbod achterblijft. Wie als ondernemer of belegger een compac
 
 Redactie SpijkenisseKrant30 augustus 2025
-
-![Kleine bedrijfsunits steeds moeilijker te vinden in Rotterdam](https://spijkenissekrant.nl/wp-content/uploads/2024/08/pexels-pixabay-459653.jpg)
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2024/08/pexels-pixabay-459653-1024x682.jpg)
 
 * augustus 30, 2025
 

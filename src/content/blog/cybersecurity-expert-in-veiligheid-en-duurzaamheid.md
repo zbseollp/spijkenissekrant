@@ -11,8 +11,6 @@ De wereld van oplaadinfrastructuur en batterijcellen is voortdurend in ontwikkel
 
 Redactie SpijkenisseKrant30 maart 2025
 
-![Cybersecurity-expert in veiligheid en duurzaamheid](https://spijkenissekrant.nl/wp-content/uploads/2025/03/pexels-pixabay-461064.jpg)
-
 De wereld van oplaadinfrastructuur en batterijcellen is voortdurend in ontwikkeling. Met de groeiende afhankelijkheid van elektrische voertuigen en duurzame energiebronnen, wordt de noodzaak voor robuuste beveiligingsmaatregelen steeds belangrijker. Cybersecurity-experts spelen hierbij een cruciale rol door de veiligheid en duurzaamheid van deze systemen te waarborgen. In dit artikel bespreken we hoe cybersecurity-experts bijdragen aan de bescherming van oplaadinfrastructuren en batterijcellen, en waarom hun expertise onmisbaar is.
 
 ## De rol van cybersecurity-experts

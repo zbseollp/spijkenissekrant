@@ -3,17 +3,11 @@ title: "Duurzaam wonen in Spijkenisse: meubels die generaties meegaan"
 pubDate: "2025-08-30"
 date: "2025-08-30"
 slug: "duurzaam-wonen-in-spijkenisse-meubels-die-generaties-meegaan"
-metaDescription: "Blog Duurzaam wonen in Spijkenisse: meubels die generaties meegaan Een bewuste woontrend In Spijkenisse groeit de aandacht voor duurzame keuzes in huis."
+metaDescription: "Duurzaam wonen in Spijkenisse: meubels die generaties meegaan Een bewuste woontrend In Spijkenisse groeit de aandacht voor duurzame keuzes in huis."
 ---
-Blog
-
 Duurzaam wonen in Spijkenisse: meubels die generaties meegaan Een bewuste woontrend In Spijkenisse groeit de aandacht voor duurzame keuzes in huis. Bewoners kiezen steeds vaker voor meubels die niet a
 
 Redactie SpijkenisseKrant30 augustus 2025
-
-![Duurzaam wonen in Spijkenisse: meubels die generaties meegaan](https://spijkenissekrant.nl/wp-content/uploads/2025/05/pexels-curtis-adams-1694007-4832533.jpg)
-
-![Lineair keuken](https://spijkenissekrant.nl/wp-content/uploads/2025/05/pexels-curtis-adams-1694007-4832533.jpg)
 
 * augustus 30, 2025
 

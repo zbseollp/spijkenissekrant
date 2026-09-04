@@ -3,15 +3,11 @@ title: "Met deze producten haal jij veel meer uit je sport en spel"
 pubDate: "2025-10-29"
 date: "2025-10-29"
 slug: "met-deze-producten-haal-jij-veel-meer-uit-je-sport-en-spel"
-metaDescription: "Blog Met deze producten haal jij veel meer uit je sport en spel Bewegen is gezond en belangrijk voor je lichaam én je mentale gezondheid. Toch betekent"
+metaDescription: "Met deze producten haal jij veel meer uit je sport en spel Bewegen is gezond en belangrijk voor je lichaam én je mentale gezondheid. Toch betekent"
 ---
-Blog
-
 Met deze producten haal jij veel meer uit je sport en spel Bewegen is gezond en belangrijk voor je lichaam én je mentale gezondheid. Toch betekent dit niet dat je altijd intensief moet sporten. Je kun
 
 Redactie SpijkenisseKrant29 oktober 2025
-
-![Met deze producten haal jij veel meer uit je sport en spel](https://spijkenissekrant.nl/wp-content/uploads/2025/10/Meer-eruit.jpg)
 
 * oktober 29, 2025
 

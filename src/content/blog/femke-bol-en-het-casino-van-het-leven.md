@@ -3,19 +3,13 @@ title: "Femke Bol en het casino van het leven: elke race een jackpot Kopiëren"
 pubDate: "2025-07-19"
 date: "2025-07-19"
 slug: "femke-bol-en-het-casino-van-het-leven"
-metaDescription: "Blog Femke Bol en het casino van het leven: elke race een jackpot Sommige mensen lijken altijd op het juiste moment de juiste zet te doen. Je kent het wel"
+metaDescription: "Femke Bol en het casino van het leven: elke race een jackpot Sommige mensen lijken altijd op het juiste moment de juiste zet te doen. Je kent het wel"
 ---
-Blog
-
 Femke Bol en het casino van het leven: elke race een jackpot Sommige mensen lijken altijd op het juiste moment de juiste zet te doen. Je kent het wel – net als die ene speler die precies weet wanneer
 
 Redactie SpijkenisseKrant19 juli 2025
 
-![Femke Bol en het casino van het leven: elke race een jackpot Kopiëren](https://spijkenissekrant.nl/wp-content/uploads/2025/07/michal-parzuchowski-GikVY_KS9vQ-unsplash-scaled.jpg)
-
 * juli 19, 2025
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/07/michal-parzuchowski-GikVY_KS9vQ-unsplash-scaled.jpg)
 
 Sommige mensen lijken altijd op het juiste moment de juiste zet te doen. Je kent het wel – net als die ene speler die precies weet wanneer hij of zij moet passen of verdubbelen aan de blackjacktafel. **Femke Bol** is zo iemand. Alleen speelt zij geen kaarten. Zij speelt met seconden. En ze wint… vaak.
 

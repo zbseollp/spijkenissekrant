@@ -11,8 +11,6 @@ Als je nieuwsgierig bent naar de wereld van research chemicals, dan ben je niet 
 
 Redactie SpijkenisseKrant29 december 2024
 
-![Online research chemicals kopen: do’s en don’ts](https://spijkenissekrant.nl/wp-content/uploads/2024/12/pexels-natri-792199.jpg)
-
 Als je nieuwsgierig bent naar de wereld van research chemicals, dan ben je niet de enige. Deze stoffen zijn populair onder onderzoekers en hobbyisten die experimenteren met nieuwe verbindingen. Maar er zijn een paar dingen waar je echt op moet letten. Dit artikel geeft je een luchtig, maar informatief overzicht van wat je wel en niet moet doen bij het kopen van research chemicals online.
 
 ### Weet wat je koopt en waarom je het koopt

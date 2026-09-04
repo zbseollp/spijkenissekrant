@@ -3,16 +3,8 @@ title: "Duurzame en trendy damesmode"
 pubDate: "2026-01-28"
 date: "2026-01-28"
 slug: "duurzame-en-trendy-damesmode"
-metaDescription: "Blog Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en"
+metaDescription: "Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en"
 ---
-Blog
-
-Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en of je er lang plezier van hebt. Duurzame mode is da
-
-Redactie SpijkenisseKrant28 januari 2026
-
-![Duurzame en trendy damesmode](https://spijkenissekrant.nl/wp-content/uploads/2026/01/Trendy-damesmode.jpg)
-
 Mode is tegenwoordig niet alleen meer een kwestie van er leuk uitzien. Je wil steeds vaker weten waar je kleding vandaan komt, hoe het is gemaakt en of je er lang plezier van hebt. Duurzame mode is daardoor een bewuste keuze. Tegenwoordig gaat het perfect samen met stijl en trends. Daarnaast hoef je niet in te leveren op uitstraling om er duurzaam bij te lopen. In deze blog vertellen we je hoe je duurzame en trendy damesmode kiest.
 
 ## **Wat maakt mode duurzaam?**

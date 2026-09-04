@@ -3,17 +3,11 @@ title: "Wanneer is een bouwtekening nodig voor een carport, dakkapel of aanbouw?
 pubDate: "2025-10-16"
 date: "2025-10-16"
 slug: "wanneer-is-een-bouwtekening-nodig-voor-een-carport-dakkapel-of-aanbouw"
-metaDescription: "Blog Wanneer is een bouwtekening nodig voor een carport, dakkapel of aanbouw? Je woning in Spijkenisse (of omgeving) verbouwen? Dan kan het zo zijn dat je"
+metaDescription: "Wanneer is een bouwtekening nodig voor een carport, dakkapel of aanbouw? Je woning in Spijkenisse (of omgeving) verbouwen? Dan kan het zo zijn dat je"
 ---
-Blog
-
 Wanneer is een bouwtekening nodig voor een carport, dakkapel of aanbouw? Je woning in Spijkenisse (of omgeving) verbouwen? Dan kan het zo zijn dat je verplicht bent om een bouwtekening te laten maken.
 
 Redactie SpijkenisseKrant16 oktober 2025
-
-![Wanneer is een bouwtekening nodig voor een carport, dakkapel of aanbouw?](https://spijkenissekrant.nl/wp-content/uploads/2025/10/pexels-binyaminmellish-106399-4.jpg)
-
-![](https://spijkenissekrant.nl/wp-content/uploads/2025/10/pexels-binyaminmellish-106399-4-1024x682.jpg)
 
 * oktober 16, 2025
 

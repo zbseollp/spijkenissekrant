@@ -11,8 +11,6 @@ Het lijkt wel of Financial lease dé trend is geworden onder ondernemers in Spij
 
 Redactie SpijkenisseKrant15 oktober 2024
 
-![Steeds meer ondernemers in Spijkenisse kiezen voor Financial lease](https://spijkenissekrant.nl/wp-content/uploads/2024/10/pexels-s-von-hoerst-2920064.jpg)
-
 Het lijkt wel of Financial lease dé trend is geworden onder ondernemers in Spijkenisse. Wat ooit misschien als een serieuze en droge manier van financieren klonk, is nu de meest gekozen methode voor bedrijfseigenaren die een auto willen leasen zonder gedoe. Wat maakt deze optie zo aantrekkelijk? Laten we het uitzoeken!
 
 ## Geen gedoe met een lening aanvragen, simpelweg leasen

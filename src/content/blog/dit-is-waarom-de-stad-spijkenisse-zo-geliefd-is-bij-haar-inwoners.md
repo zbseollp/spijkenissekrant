@@ -11,8 +11,6 @@ Spijkenisse ligt aan de rand van Rotterdam. Het is een levendige stad en het hee
 
 Redactie SpijkenisseKrant13 december 2024
 
-![Dit is waarom de stad Spijkenisse zo geliefd is bij haar inwoners](https://spijkenissekrant.nl/wp-content/uploads/2024/12/jahanzeb-ahsan-xON75eykZhE-unsplash.jpg)
-
 Spijkenisse ligt aan de rand van Rotterdam. Het is een levendige stad en het heeft een aantal unieke attracties. Dit maakt het geliefd bij zowel de bewoners als bezoekers. Spijkenisse heeft voor iedereen wat te bieden. Laten we kijken wat de stad zo uniek maakt.
 
 ## Een stad met karakter en cultuur

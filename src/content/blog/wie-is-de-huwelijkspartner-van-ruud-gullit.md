@@ -3,10 +3,8 @@ title: "Wie is de huwelijkspartner van Ruud Gullit?"
 pubDate: "2026-02-16"
 date: "2026-02-16"
 slug: "wie-is-de-huwelijkspartner-van-ruud-gullit"
-metaDescription: "Blog Wie is de huwelijkspartner van Ruud Gullit? Ruud Gullit, een legendarische naam in het internationale voetbal, heeft niet alleen furore gemaakt op"
+metaDescription: "Wie is de huwelijkspartner van Ruud Gullit? Ruud Gullit, een legendarische naam in het internationale voetbal, heeft niet alleen furore gemaakt op"
 ---
-Blog
-
 Wie is de huwelijkspartner van Ruud Gullit? Ruud Gullit, een legendarische naam in het internationale voetbal, heeft niet alleen furore gemaakt op het veld, maar ook een gevarieerd privéleven gehad. I
 
 Redactie SpijkenisseKrant16 februari 2026

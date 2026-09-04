@@ -3,15 +3,11 @@ title: "Een symbool van trots, herinnering en verbondenheid"
 pubDate: "2025-10-23"
 date: "2025-10-23"
 slug: "een-symbool-van-trots-herinnering-en-verbondenheid"
-metaDescription: "Blog Een symbool van trots, herinnering en verbondenheid Er zijn momenten in het jaar waarop de straten van Spijkenisse in kleur gehuld zijn. Rood, wit en"
+metaDescription: "Een symbool van trots, herinnering en verbondenheid Er zijn momenten in het jaar waarop de straten van Spijkenisse in kleur gehuld zijn. Rood, wit en"
 ---
-Blog
-
 Een symbool van trots, herinnering en verbondenheid Er zijn momenten in het jaar waarop de straten van Spijkenisse in kleur gehuld zijn. Rood, wit en blauw bewegen zachtjes in de wind boven gevels, sc
 
 Redactie SpijkenisseKrant23 oktober 2025
-
-![Een symbool van trots, herinnering en verbondenheid](https://spijkenissekrant.nl/wp-content/uploads/2025/10/Nederlandse-vlag.jpg)
 
 * oktober 23, 2025
 

@@ -11,8 +11,6 @@ Nederland begint steeds meer op een magneet te lijken voor cryptobedrijven. Dat 
 
 Redactie SpijkenisseKrant12 februari 2025
 
-![Andere cryptodiensten gaan voor  Nederlandse licentie in navolging van Kraken](https://spijkenissekrant.nl/wp-content/uploads/2025/02/unnamed-2025-02-12T183508.659.jpg)
-
 Nederland begint steeds meer op een magneet te lijken voor cryptobedrijven. Dat was natuurlijk al een tijdje gaande, maar nu De Nederlandsche Bank (DNB) Kraken officieel heeft toegelaten tot de markt, lijkt het hek helemaal van de dam.
 
 Andere partijen kijken gretig mee en willen niet achterblijven. En geef ze eens ongelijk: Nederland heeft een actieve cryptogemeenschap, duidelijke regels en een economie die openstaat voor innovatie. Een goudmijn voor bedrijven die serieus willen meedoen in deze sector.

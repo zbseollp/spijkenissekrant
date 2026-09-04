@@ -3,15 +3,11 @@ title: "Spijkenisse Urban Games: sport, actie en avontuur in de stad"
 pubDate: "2025-02-21"
 date: "2025-02-21"
 slug: "spijkenisse-urban-games"
-metaDescription: "Blog Spijkenisse Urban Games: sport, actie en avontuur in de stad Spijkenisse heeft een moderne uitstraling met veel ruimte voor sport en recreatie. Een"
+metaDescription: "Spijkenisse Urban Games: sport, actie en avontuur in de stad Spijkenisse heeft een moderne uitstraling met veel ruimte voor sport en recreatie. Een"
 ---
-Blog
-
 Spijkenisse Urban Games: sport, actie en avontuur in de stad Spijkenisse heeft een moderne uitstraling met veel ruimte voor sport en recreatie. Een event als
 
 Redactie SpijkenisseKrant21 februari 2025
-
-![Spijkenisse Urban Games: sport, actie en avontuur in de stad](https://spijkenissekrant.nl/wp-content/uploads/2025/02/istockphoto-1180401620-612x612-1.webp)
 
 * februari 21, 2025
 

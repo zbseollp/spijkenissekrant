@@ -3,14 +3,8 @@ title: "Wie is de vriend van Yibbi Jansen?"
 pubDate: "2026-02-16"
 date: "2026-02-16"
 slug: "yibbi-jansen-vriend"
-metaDescription: "Blog Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en"
+metaDescription: "Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en"
 ---
-Blog
-
-Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en supporters trots maakte. Haar vader, voormalig hock
-
-Redactie SpijkenisseKrant16 februari 2026
-
 Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en supporters trots maakte. Haar vader, voormalig hockeykeeper Ronald Jansen, zag hoe zijn dochter net als hij jaren geleden Olympisch goud veroverde. Het succes lijkt duidelijk in de familie te zitten. Toch richten we ons hier niet op de bijzondere band tussen vader en dochter. In plaats daarvan gaan we in op een andere veelgestelde vraag: wie is de partner van Yibbi Jansen?
 
 ## Verwarring om namen

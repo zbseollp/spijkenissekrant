@@ -3,16 +3,8 @@ title: "De toekomst van duurzaam ondernemen begint vandaag"
 pubDate: "2025-11-14"
 date: "2025-11-14"
 slug: "de-toekomst-van-duurzaam-ondernemen-begint-vandaag"
-metaDescription: "Blog Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard"
+metaDescription: "Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard"
 ---
-Blog
-
-Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard om te volgen? Gelukkig zijn er plekken waar je over
-
-Redactie SpijkenisseKrant14 november 2025
-
-![De toekomst van duurzaam ondernemen begint vandaag](https://spijkenissekrant.nl/wp-content/uploads/2025/11/pexels-fauxels-3182835-scaled.jpg)
-
 Steeds meer bedrijven én consumenten willen bijdragen aan een groene toekomst. Maar waar begin je, en welke ontwikkelingen zijn écht de moeite waard om te volgen? Gelukkig zijn er plekken waar je overzicht en inspiratie kunt vinden. Zo kun je eenvoudig *[bekijk duurzame innovaties op duurzamebedrijvengids.nl](https://duurzamebedrijvengids.nl/)* om te ontdekken hoe bedrijven in Nederland en daarbuiten nieuwe stappen zetten richting een circulaire, energiezuinige en toekomstbestendige samenleving. Het laat zien dat duurzaamheid allang geen trend meer is, maar een volwassen beweging die volop groeit.
 
 ## Innovatie als drijvende kracht achter duurzaamheid

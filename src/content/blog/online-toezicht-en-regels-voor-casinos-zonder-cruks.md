@@ -11,8 +11,6 @@ De Nederlandse gokmarkt is gereguleerd om spelers te beschermen, vooral de kwets
 
 Redactie SpijkenisseKrant19 februari 2025
 
-![Online Toezicht En Regels Voor Casino’s Zonder Cruks](https://spijkenissekrant.nl/wp-content/uploads/2025/02/6fa9b69f-e8d1-4acf-ae19-8f1ba9146574.png)
-
 **De Nederlandse gokmarkt is gereguleerd om spelers te beschermen, vooral de kwetsbare groepen. Cruks is een centraal register dat spelers uitsluit als onderdeel van de wetgeving. Het bestaan van casino’s zonder Cruks maakt het echter essentieel voor spelers om goed geïnformeerd te zijn.**
 
 Cruks, ofwel het Centraal Register Uitsluiting Kansspelen, is in het leven geroepen om kwetsbare of probleemspelers te beschermen. Dit systeem controleert bij legale Nederlandse casino’s of een speler is uitgesloten van deelname aan kansspelen. Hoewel sommige online casino’s niet bij Cruks zijn aangesloten, bevinden deze zich vaak in het buitenland met andere licentievoorwaarden. Toezicht is cruciaal voor spelers die veilig en verantwoord willen gokken in Nederland. Voor een bredere vergelijking van een [casino zonder Cruks Nederland](https://vivistats.com/) met buitenlandse goksites kun je hieronder lezen over wat Cruks precies is.

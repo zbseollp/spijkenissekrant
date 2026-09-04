@@ -3,15 +3,11 @@ title: "Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad"
 pubDate: "2025-02-21"
 date: "2025-02-21"
 slug: "spijkenisse-street-food-festival"
-metaDescription: "Blog Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad Spijkenisse, bekend om zijn moderne stadscentrum en groene omgeving, zou zomaar"
+metaDescription: "Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad Spijkenisse, bekend om zijn moderne stadscentrum en groene omgeving, zou zomaar"
 ---
-Blog
-
 Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad Spijkenisse, bekend om zijn moderne stadscentrum en groene omgeving, zou zomaar de perfecte locatie kunnen
 
 Redactie SpijkenisseKrant21 februari 2025
-
-![Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad](https://spijkenissekrant.nl/wp-content/uploads/2025/02/istockphoto-2152226603-612x612-1.webp)
 
 * februari 21, 2025
 

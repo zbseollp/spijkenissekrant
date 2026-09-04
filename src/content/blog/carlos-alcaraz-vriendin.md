@@ -3,14 +3,8 @@ title: "Carlos Alcaraz en zijn (vermeende) vriendin: dit zou haar zijn!"
 pubDate: "2026-02-16"
 date: "2026-02-16"
 slug: "carlos-alcaraz-vriendin"
-metaDescription: "Blog Carlos Alcaraz, de jonge Spaanse tennistopper die wereldwijd voor opschudding zorgt, heeft niet alleen de harten van fans veroverd met zijn sportieve"
+metaDescription: "Carlos Alcaraz, de jonge Spaanse tennistopper die wereldwijd voor opschudding zorgt, heeft niet alleen de harten van fans veroverd met zijn sportieve"
 ---
-Blog
-
-Carlos Alcaraz, de jonge Spaanse tennistopper die wereldwijd voor opschudding zorgt, heeft niet alleen de harten van fans veroverd met zijn sportieve prestaties, maar ook interesse gewekt over zijn pr
-
-Redactie SpijkenisseKrant16 februari 2026
-
 Carlos Alcaraz, de jonge Spaanse tennistopper die wereldwijd voor opschudding zorgt, heeft niet alleen de harten van fans veroverd met zijn sportieve prestaties, maar ook interesse gewekt over zijn privéleven. Met miljoenen volgers op sociale media en indrukwekkende zeges tegen grote namen zoals Novak Djokovic, staat Alcaraz symbool voor een nieuwe generatie in het tennis.
 
 Naast zijn succes op de baan is er veel nieuwsgierigheid naar zijn persoonlijke leven, en vooral naar de vraag: wie is de partner van Carlos Alcaraz? Zijn liefdesleven blijft grotendeels buiten de schijnwerpers, maar fans speculeren regelmatig over mogelijke relaties en interesses van de jonge ster.

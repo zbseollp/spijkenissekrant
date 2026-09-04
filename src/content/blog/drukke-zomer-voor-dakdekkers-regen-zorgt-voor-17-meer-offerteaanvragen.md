@@ -11,8 +11,6 @@ Nederland heeft deze zomer te maken met een uitzonderlijke hoeveelheid regen, wa
 
 Redactie SpijkenisseKrant24 juli 2024
 
-![Drukke zomer voor dakdekkers: regen zorgt voor 17% meer offerteaanvragen](https://spijkenissekrant.nl/wp-content/uploads/2024/07/pexels-bclarkphoto-21492.jpg)
-
 Nederland heeft deze zomer te maken met een uitzonderlijke hoeveelheid regen, wat resulteert in een aanzienlijke stijging van het aantal offerteaanvragen voor dakdekkers volgens [het platform Dakdekkersgids.nl](https://dakdekkersgids.nl/veel-dakproblemen-door-aanhoudende-regen/). Het KNMI heeft gemeld dat 2023 al het natste jaar sinds 1900 was, maar 2024 lijkt dit record te overtreffen met meer dan 1.000 millimeter regenval van oktober 2023 tot mei 2024. Dit heeft geleid tot een stijging van 17% in offerteaanvragen voor dakdekkers sinds april.
 
 **Toename in dakproblemen door aanhoudende regen**

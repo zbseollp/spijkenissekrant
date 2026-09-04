@@ -11,8 +11,6 @@ Een ondervloer vormt de basis van een goede vloerinstallatie. Het zorgt niet all
 
 Redactie SpijkenisseKrant28 december 2024
 
-![Hoe kies je de juiste ondervloer voor jouw type vloer?](https://spijkenissekrant.nl/wp-content/uploads/2024/12/pexels-natri-792199.jpg)
-
 Een ondervloer vormt de basis van een goede vloerinstallatie. Het zorgt niet alleen voor stabiliteit, maar biedt ook extra voordelen zoals geluidsisolatie, vochtbescherming en warmte-isolatie. Maar hoe bepaal je welke ondervloer geschikt is voor jouw situatie? In deze gids bespreken we de belangrijkste factoren om je te helpen een keuze te maken.
 
 #### **Geluidsisolatie en comfort**

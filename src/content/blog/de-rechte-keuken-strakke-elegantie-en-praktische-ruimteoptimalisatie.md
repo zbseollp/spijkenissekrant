@@ -3,15 +3,11 @@ title: "De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie"
 pubDate: "2025-05-30"
 date: "2025-05-30"
 slug: "de-rechte-keuken-strakke-elegantie-en-praktische-ruimteoptimalisatie"
-metaDescription: "Blog De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de"
+metaDescription: "De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de"
 ---
-Blog
-
 De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de rechte keuken misschien precies wat je nodig hebt.
 
 Redactie SpijkenisseKrant30 mei 2025
-
-![De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie](https://spijkenissekrant.nl/wp-content/uploads/2025/05/pexels-curtis-adams-1694007-4832533.jpg)
 
 * mei 30, 2025
 

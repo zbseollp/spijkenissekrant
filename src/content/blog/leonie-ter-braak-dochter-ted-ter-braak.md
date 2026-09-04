@@ -3,10 +3,8 @@ title: "Is Leonie ter Braak dochter van Ted​?"
 pubDate: "2025-03-08"
 date: "2025-03-08"
 slug: "leonie-ter-braak-dochter-ted-ter-braak"
-metaDescription: "Blog Is Leonie ter Braak dochter van Ted​? Ted de Braak is een legendarische Nederlandse presentator, cabaretier en acteur, die decennialang het"
+metaDescription: "Is Leonie ter Braak dochter van Ted​? Ted de Braak is een legendarische Nederlandse presentator, cabaretier en acteur, die decennialang het"
 ---
-Blog
-
 Is Leonie ter Braak dochter van Ted​? Ted de Braak is een legendarische Nederlandse presentator, cabaretier en acteur, die decennialang het Nederlandse entertainmentlandschap heeft beïnvloed.
 
 Redactie SpijkenisseKrant8 maart 2025

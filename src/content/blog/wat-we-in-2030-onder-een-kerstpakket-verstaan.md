@@ -3,15 +3,11 @@ title: "Wat we in 2030 onder een ‘kerstpakket’ verstaan"
 pubDate: "2025-10-25"
 date: "2025-10-25"
 slug: "wat-we-in-2030-onder-een-kerstpakket-verstaan"
-metaDescription: "Blog Wat we in 2030 onder een ‘kerstpakket’ verstaan Over vijf jaar zal het kerstpakket er waarschijnlijk heel anders uitzien dan we nu gewend zijn. Waar"
+metaDescription: "Wat we in 2030 onder een ‘kerstpakket’ verstaan Over vijf jaar zal het kerstpakket er waarschijnlijk heel anders uitzien dan we nu gewend zijn. Waar"
 ---
-Blog
-
 Wat we in 2030 onder een ‘kerstpakket’ verstaan Over vijf jaar zal het kerstpakket er waarschijnlijk heel anders uitzien dan we nu gewend zijn. Waar het ooit ging om een doos vol lekkernijen, draait h
 
 Redactie SpijkenisseKrant25 oktober 2025
-
-![Wat we in 2030 onder een ‘kerstpakket’ verstaan](https://spijkenissekrant.nl/wp-content/uploads/2025/10/Kerstpakket1.jpg)
 
 * oktober 25, 2025
 
