@@ -1,7 +1,7 @@
 ---
 title: "Het laatste nieuws uit de Nederlandse kansspel branche"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-12-03"
+date: "2025-12-03"
 slug: "het-laatste-nieuws-uit-de-nederlandse-kansspel-branche"
 metaDescription: "Blog Wie de Nederlandse kansspel branche op de voet volgt weet dat hier van alles gebeurt. Het heeft jaren geduurd voordat er eindelijk duidelijkheid kwam"
 ---

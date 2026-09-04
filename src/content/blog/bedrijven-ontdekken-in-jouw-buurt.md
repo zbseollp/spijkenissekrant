@@ -1,7 +1,7 @@
 ---
 title: "Bedrijven ontdekken in jouw buurt? Zo doe je dat slim en snel!"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-04-24"
+date: "2025-04-24"
 slug: "bedrijven-ontdekken-in-jouw-buurt"
 metaDescription: "Blog Bedrijven ontdekken in jouw buurt? Zo doe je dat slim en snel! Ben je op zoek naar een betrouwbaar lokaal bedrijf, maar weet je niet goed waar je"
 ---

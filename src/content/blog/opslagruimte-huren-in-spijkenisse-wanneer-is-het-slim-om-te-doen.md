@@ -1,7 +1,7 @@
 ---
 title: "Opslagruimte huren in Spijkenisse: wanneer is het slim om te doen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-12-26"
+date: "2025-12-26"
 slug: "opslagruimte-huren-in-spijkenisse-wanneer-is-het-slim-om-te-doen"
 metaDescription: "Blog Je huis lijkt soms groter op Funda dan in het echt. Voor je het weet staat elke hoek vol spullen die je eigenlijk niet wilt wegdoen. Van dozen met"
 ---

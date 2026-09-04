@@ -1,7 +1,7 @@
 ---
 title: "Nederlandse verhuisbedrijven: een blik achter de schermen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-01-28"
+date: "2026-01-28"
 slug: "nederlandse-verhuisbedrijven"
 metaDescription: "Blog Verhuizen is voor veel mensen een ingrijpende gebeurtenis. Of het nu gaat om een eerste appartement, een gezinswoning of een kleinere woning na jaren"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Het gezin van Manon de Vries"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-02-16"
+date: "2026-02-16"
 slug: "manon-de-vries-de-moeder-achter-het-succes-van-noa-lang"
 metaDescription: "Blog Het gezin van Manon de Vries Manon de Vries is de moeder van Noa Lang, een van de meest besproken voetballers van Nederland. Noa werd geboren op 17"
 ---

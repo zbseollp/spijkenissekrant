@@ -1,7 +1,7 @@
 ---
 title: "Beleggen vanuit Spijkenisse: wat zijn de opties?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-07-24"
+date: "2025-07-24"
 slug: "beleggen-vanuit-spijkenisse-wat-zijn-de-opties"
 metaDescription: "Blog Beleggen vanuit Spijkenisse: wat zijn de opties? Beleggen is allang niet meer alleen geschikt voor financieel beleggers en miljonairs. Via digitale"
 ---

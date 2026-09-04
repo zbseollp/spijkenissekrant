@@ -1,7 +1,7 @@
 ---
 title: "Waarom een beursforum jouw geheime wapen kan zijn bij beleggen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-04-13"
+date: "2025-04-13"
 slug: "waarom-een-beursforum-jouw-geheime-wapen-kan-zijn-bij-beleggen"
 metaDescription: "Blog Waarom een beursforum jouw geheime wapen kan zijn bij beleggen Voor wie actief belegt of net begint met het verkennen van de aandelenmarkt, is"
 ---

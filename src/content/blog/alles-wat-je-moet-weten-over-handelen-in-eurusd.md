@@ -1,7 +1,7 @@
 ---
 title: "Alles wat je moet weten over handelen in EURUSD"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-08-06"
+date: "2024-08-06"
 slug: "alles-wat-je-moet-weten-over-handelen-in-eurusd"
 metaDescription: "Nieuws Handelen in de EURUSD is als een achtbaanrit: vol spanning, ups en downs, en een flinke dosis adrenaline. Deze wereld van valutahandel kan je"
 ---

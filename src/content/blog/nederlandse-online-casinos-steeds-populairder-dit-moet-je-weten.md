@@ -1,7 +1,7 @@
 ---
 title: "Nederlandse online casino’s steeds populairder: dit moet je weten"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-27"
+date: "2025-08-27"
 slug: "nederlandse-online-casinos-steeds-populairder-dit-moet-je-weten"
 metaDescription: "Blog Nederlandse online casino’s steeds populairder: dit moet je weten Nederland kent de laatste jaren een opmerkelijke groei in het gebruik van online"
 ---

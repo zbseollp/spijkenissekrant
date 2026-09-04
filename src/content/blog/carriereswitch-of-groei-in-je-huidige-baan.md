@@ -1,7 +1,7 @@
 ---
 title: "Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-02-27"
+date: "2025-02-27"
 slug: "carriereswitch-of-groei-in-je-huidige-baan"
 metaDescription: "Blog Carrièreswitch of groei in je huidige baan? Zo maak je de juiste keuze met loopbaancoaching Werk verandert voortdurend en vraagt om bewuste keuzes in"
 ---

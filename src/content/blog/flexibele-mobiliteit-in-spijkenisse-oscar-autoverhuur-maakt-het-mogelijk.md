@@ -1,7 +1,7 @@
 ---
 title: "Flexibele mobiliteit in Spijkenisse: Oscar autoverhuur maakt het mogelijk"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-09-12"
+date: "2024-09-12"
 slug: "flexibele-mobiliteit-in-spijkenisse-oscar-autoverhuur-maakt-het-mogelijk"
 metaDescription: "Autoverhuur Flexibele mobiliteit wordt steeds belangrijker in de moderne samenleving, vooral in steden zoals Spijkenisse. Mensen willen niet meer gebonden"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Duurzaam wonen in Spijkenisse: meubels die generaties meegaan"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-30"
+date: "2025-08-30"
 slug: "duurzaam-wonen-in-spijkenisse-meubels-die-generaties-meegaan"
 metaDescription: "Blog Duurzaam wonen in Spijkenisse: meubels die generaties meegaan Een bewuste woontrend In Spijkenisse groeit de aandacht voor duurzame keuzes in huis."
 ---

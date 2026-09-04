@@ -1,7 +1,7 @@
 ---
 title: "Wat te doen na het krijgen van ontslag?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-10-29"
+date: "2025-10-29"
 slug: "wat-te-doen-na-het-krijgen-van-ontslag"
 metaDescription: "Blog Wat te doen na het krijgen van ontslag? Het krijgen van ontslag is een vervelende situatie die je lang niet altijd aan ziet komen. Je weet dat je"
 ---

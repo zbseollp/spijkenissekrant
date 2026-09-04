@@ -1,7 +1,7 @@
 ---
 title: "René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volksgezondheid"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-02-16"
+date: "2026-02-16"
 slug: "rene-zegerius-partner-van-dilan-yesilgoz"
 metaDescription: "Blog René Zegerius: partner van Dilan Yeşilgöz en zijn inzet voor de volksgezondheid René Zegerius is een Nederlandse expert op het gebied van"
 ---

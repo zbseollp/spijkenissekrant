@@ -1,7 +1,7 @@
 ---
 title: "Digitale vermaakopties voor voetbalfans tijdens reisperiodes"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-07-30"
+date: "2025-07-30"
 slug: "digitale-vermaakopties-voor-voetbalfans-tijdens-reisperiodes"
 metaDescription: "Blog Digitale vermaakopties voor voetbalfans tijdens reisperiodes Voetbalfans die regelmatig reizen voor wedstrijden of vakantie kennen het probleem maar"
 ---

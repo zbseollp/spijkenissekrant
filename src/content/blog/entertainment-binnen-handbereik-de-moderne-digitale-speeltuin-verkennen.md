@@ -1,7 +1,7 @@
 ---
 title: "Entertainment binnen handbereik: de moderne digitale speeltuin verkennen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-06-04"
+date: "2025-06-04"
 slug: "entertainment-binnen-handbereik-de-moderne-digitale-speeltuin-verkennen"
 metaDescription: "Blog In de hectische wereld van vandaag is ontspanning belangrijker dan ooit. Met smartphones binnen handbereik en schermen om ons heen is entertainment"
 ---

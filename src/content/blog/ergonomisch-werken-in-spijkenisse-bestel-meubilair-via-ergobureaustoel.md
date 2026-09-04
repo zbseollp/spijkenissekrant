@@ -1,7 +1,7 @@
 ---
 title: "Ergonomisch werken in Spijkenisse? Bestel meubilair via Ergobureaustoel!"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-03-25"
+date: "2024-03-25"
 slug: "ergonomisch-werken-in-spijkenisse-bestel-meubilair-via-ergobureaustoel"
 metaDescription: "Blog Ergonomie speelt een cruciale rol in het bevorderen van de gezondheid en productiviteit op de werkplek. Of je nu een start-up runt in Spijkenisse of"
 ---

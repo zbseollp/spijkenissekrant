@@ -1,7 +1,7 @@
 ---
 title: "Digitale spelletjesavonden in Spijkenisse worden steeds populairder"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-28"
+date: "2025-08-28"
 slug: "digitale-spelletjesavonden-in-spijkenisse-worden-steeds-populairder"
 metaDescription: "Blog Digitale spelletjesavonden in Spijkenisse worden steeds populairder Digitale spelletjesavonden worden steeds vaker gezien in de huiskamers van"
 ---

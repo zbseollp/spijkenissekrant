@@ -1,7 +1,7 @@
 ---
 title: "4 Manieren om vaarwel te zeggen tegen vieze geurtjes in de keuken"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-01-24"
+date: "2026-01-24"
 slug: "4-manieren-om-vaarwel-te-zeggen-tegen-vieze-geurtjes-in-de-keuken"
 metaDescription: "Nieuws In ieder huishouden komen vieze geurtjes in de keuken weleens voor. Dat is natuurlijk ontzettend vervelend, omdat het voor veel overlast kan"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Strategisch Groeien op YouTube: Het Kopen van Abonnees"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-04-17"
+date: "2024-04-17"
 slug: "strategisch-groeien-op-youtube-het-kopen-van-abonnees"
 metaDescription: "Sociale media In de wereld van online contentcreatie is YouTube een krachtig platform geworden voor het delen van video’s en het opbouwen van een publiek."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-09-10"
+date: "2025-09-10"
 slug: "wat-is-een-modelcontract-en-waarom-kiezen-zoveel-mensen-hiervoor"
 metaDescription: "Blog Wat is een modelcontract en waarom kiezen zoveel mensen hiervoor? Je hoort het steeds vaker: mensen stappen over naar een modelcontract voor hun"
 ---

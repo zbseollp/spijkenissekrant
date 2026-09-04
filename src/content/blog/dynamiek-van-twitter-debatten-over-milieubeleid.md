@@ -1,7 +1,7 @@
 ---
 title: "De dynamiek van Twitter debatten over milieubeleid"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-04-20"
+date: "2024-04-20"
 slug: "dynamiek-van-twitter-debatten-over-milieubeleid"
 metaDescription: "Sociale media Twitter heeft zich gevestigd als een krachtig platform voor het bespreken van diverse onderwerpen, waaronder milieubeleid. Debatten op"
 ---

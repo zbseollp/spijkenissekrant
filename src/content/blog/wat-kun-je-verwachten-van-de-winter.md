@@ -1,7 +1,7 @@
 ---
 title: "Wat kun je verwachten van de winter?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-10-14"
+date: "2024-10-14"
 slug: "wat-kun-je-verwachten-van-de-winter"
 metaDescription: "Blog De winter van 2024-2025 staat voor de deur en de voorspellingen wijzen op een wisselvallig seizoen met koude en milde periodes. Met de mogelijkheid"
 ---

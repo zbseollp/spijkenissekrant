@@ -1,7 +1,7 @@
 ---
 title: "Met deze producten haal jij veel meer uit je sport en spel"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-10-29"
+date: "2025-10-29"
 slug: "met-deze-producten-haal-jij-veel-meer-uit-je-sport-en-spel"
 metaDescription: "Blog Met deze producten haal jij veel meer uit je sport en spel Bewegen is gezond en belangrijk voor je lichaam én je mentale gezondheid. Toch betekent"
 ---

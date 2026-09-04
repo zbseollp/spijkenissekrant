@@ -1,7 +1,7 @@
 ---
 title: "Sport en cultuur in de spotlights dankzij klazienaveenkrant.nl"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-09-04"
+date: "2025-09-04"
 slug: "sport-en-cultuur-in-de-spotlights-dankzij-klazienaveenkrant-nl"
 metaDescription: "Blog Sport en cultuur in de spotlights dankzij klazienaveenkrant.nl Wie denkt aan Klazienaveen, denkt niet alleen aan winkels en bedrijvigheid, maar ook"
 ---

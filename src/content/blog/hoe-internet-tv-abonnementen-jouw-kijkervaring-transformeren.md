@@ -1,7 +1,7 @@
 ---
 title: "Hoe internet-tv-abonnementen jouw kijkervaring transformeren"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-07-08"
+date: "2025-07-08"
 slug: "hoe-internet-tv-abonnementen-jouw-kijkervaring-transformeren"
 metaDescription: "Blog Hoe internet-tv-abonnementen jouw kijkervaring transformeren In een tijd waarin technologie zich razendsnel ontwikkelt, is het geen verrassing dat"
 ---

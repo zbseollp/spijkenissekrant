@@ -1,7 +1,7 @@
 ---
 title: "Hoe stellingkasten een veelzijdige oplossing kunnen zijn voor efficiënte opslag"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-03-21"
+date: "2024-03-21"
 slug: "hoe-stellingkasten-een-veelzijdige-oplossing-kunnen-zijn-voor-efficiente-opslag"
 metaDescription: "Blog In de wereld van bedrijfsorganisatie en efficiëntie is het vinden van geschikte opslagoplossingen van cruciaal belang. Stellingkasten hebben zich"
 ---

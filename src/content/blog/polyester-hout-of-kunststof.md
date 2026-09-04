@@ -1,7 +1,7 @@
 ---
 title: "Polyester, hout of kunststof? Kies het beste materiaal voor jouw dakkapel"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-03-13"
+date: "2025-03-13"
 slug: "polyester-hout-of-kunststof"
 metaDescription: "Blog Polyester, hout of kunststof? Kies het beste materiaal voor jouw dakkapel Een dakkapel is een fantastische investering. Het geeft niet alleen extra"
 ---

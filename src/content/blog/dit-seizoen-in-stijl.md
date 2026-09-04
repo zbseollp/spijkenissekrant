@@ -1,7 +1,7 @@
 ---
 title: "Dit seizoen in stijl: de trends voor dameskleding"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-02-05"
+date: "2025-02-05"
 slug: "dit-seizoen-in-stijl"
 metaDescription: "Blog Dit seizoen in stijl: de trends voor dameskleding Het nieuwe modeseizoen is in volle gang, en dat betekent dat er weer volop inspiratie is om"
 ---

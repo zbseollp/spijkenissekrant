@@ -1,7 +1,7 @@
 ---
 title: "Hoe kies je de juiste ondervloer voor jouw type vloer?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-12-28"
+date: "2024-12-28"
 slug: "hoe-kies-je-de-juiste-ondervloer-voor-jouw-type-vloer"
 metaDescription: "Nieuws Een ondervloer vormt de basis van een goede vloerinstallatie. Het zorgt niet alleen voor stabiliteit, maar biedt ook extra voordelen zoals"
 ---

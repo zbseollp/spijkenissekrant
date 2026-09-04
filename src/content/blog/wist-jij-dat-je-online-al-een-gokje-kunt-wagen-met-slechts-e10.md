@@ -1,7 +1,7 @@
 ---
 title: "Wist jij dat je online al een gokje kunt wagen met slechts €10?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-09-18"
+date: "2025-09-18"
 slug: "wist-jij-dat-je-online-al-een-gokje-kunt-wagen-met-slechts-e10"
 metaDescription: "Blog Wist jij dat je online al een gokje kunt wagen met slechts €10? Alles wordt steeds maar duurder. Een avondje uit kan dus ook al snel in de papieren"
 ---

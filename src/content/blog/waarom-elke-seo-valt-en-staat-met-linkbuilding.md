@@ -1,7 +1,7 @@
 ---
 title: "Waarom elke SEO valt en staat met linkbuilding"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-07-12"
+date: "2024-07-12"
 slug: "waarom-elke-seo-valt-en-staat-met-linkbuilding"
 metaDescription: "Blog SEO is een essentieel onderdeel van digitale marketing, maar zonder linkbuilding is het bijna onmogelijk om goede resultaten te behalen. Linkbuilding"
 ---

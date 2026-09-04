@@ -1,7 +1,7 @@
 ---
 title: "Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-02-21"
+date: "2025-02-21"
 slug: "spijkenisse-street-food-festival"
 metaDescription: "Blog Spijkenisse Street Food Festival: een smaakvolle belevenis in de stad Spijkenisse, bekend om zijn moderne stadscentrum en groene omgeving, zou zomaar"
 ---

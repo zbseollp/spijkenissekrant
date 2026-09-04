@@ -1,7 +1,7 @@
 ---
 title: "Dit is waarom de stad Spijkenisse zo geliefd is bij haar inwoners"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-12-13"
+date: "2024-12-13"
 slug: "dit-is-waarom-de-stad-spijkenisse-zo-geliefd-is-bij-haar-inwoners"
 metaDescription: "Nieuws Spijkenisse ligt aan de rand van Rotterdam. Het is een levendige stad en het heeft een aantal unieke attracties. Dit maakt het geliefd bij zowel de"
 ---

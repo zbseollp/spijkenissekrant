@@ -1,7 +1,7 @@
 ---
 title: "Hoe bedrijven sneller kantooruitbreidingen realiseren met hulp bij vergunningen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-24"
+date: "2025-08-24"
 slug: "hoe-bedrijven-sneller-kantooruitbreidingen-realiseren-met-hulp-bij-vergunningen"
 metaDescription: "Blog Hoe bedrijven sneller kantooruitbreidingen realiseren met hulp bij vergunningen Soms voelt een kantooruitbreiding als een spannend avontuur: meer"
 ---

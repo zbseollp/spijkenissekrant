@@ -1,7 +1,7 @@
 ---
 title: "Organiseer een onvergetelijk lokaal evenement: tips en voordelen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-10-24"
+date: "2024-10-24"
 slug: "organiseer-een-onvergetelijk-lokaal-evenement-tips-en-voordelen"
 metaDescription: "Nieuws Het organiseren van een lokaal evenement kan een spannende uitdaging zijn. Of je nu een bruiloft, bedrijfsfeest of een community evenement"
 ---

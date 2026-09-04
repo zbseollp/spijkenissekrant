@@ -1,7 +1,7 @@
 ---
 title: "Ontdek jouw ideale transportoplossing"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-01-28"
+date: "2026-01-28"
 slug: "ontdek-jouw-ideale-transportoplossing"
 metaDescription: "Blog Transport is een essentieel onderdeel van ons dagelijks leven: van bedrijven die dagelijks goederen verzenden tot mensen die een pakketje naar een"
 ---

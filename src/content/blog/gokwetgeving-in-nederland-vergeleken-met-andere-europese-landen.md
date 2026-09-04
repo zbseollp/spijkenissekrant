@@ -1,7 +1,7 @@
 ---
 title: "Gokwetgeving in Nederland vergeleken met andere Europese landen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-06-19"
+date: "2025-06-19"
 slug: "gokwetgeving-in-nederland-vergeleken-met-andere-europese-landen"
 metaDescription: "Nieuws De Nederlandse gokmarkt is sinds 2021 sterk veranderd door de invoering van nieuwe wetgeving en centrale toezichtsystemen. Deze ontwikkelingen"
 ---

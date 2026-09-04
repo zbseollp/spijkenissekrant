@@ -1,7 +1,7 @@
 ---
 title: "Wat we in 2030 onder een ‘kerstpakket’ verstaan"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-10-25"
+date: "2025-10-25"
 slug: "wat-we-in-2030-onder-een-kerstpakket-verstaan"
 metaDescription: "Blog Wat we in 2030 onder een ‘kerstpakket’ verstaan Over vijf jaar zal het kerstpakket er waarschijnlijk heel anders uitzien dan we nu gewend zijn. Waar"
 ---

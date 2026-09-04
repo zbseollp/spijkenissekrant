@@ -1,7 +1,7 @@
 ---
 title: "Andere cryptodiensten gaan voor  Nederlandse licentie in navolging van Kraken"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-02-12"
+date: "2025-02-12"
 slug: "andere-cryptodiensten-gaan-voor-nederlandse-licentie-in-navolging-van-kraken"
 metaDescription: "Nieuws Nederland begint steeds meer op een magneet te lijken voor cryptobedrijven. Dat was natuurlijk al een tijdje gaande, maar nu De Nederlandsche Bank"
 ---

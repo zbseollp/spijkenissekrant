@@ -1,7 +1,7 @@
 ---
 title: "YouTube en financiële geletterdheid: leer slim investeren en sparen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-07-23"
+date: "2024-07-23"
 slug: "youtube-en-financiele-geletterdheid-leer-slim-investeren-en-sparen"
 metaDescription: "YouTube Financiële geletterdheid is een cruciale vaardigheid in de moderne wereld. Met de opkomst van sociale media platforms zoals YouTube, is het"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Waarom Google ads uitbesteden aan Samonlinemarketing.nl een slimme zet is"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-22"
+date: "2025-08-22"
 slug: "waarom-google-ads-uitbesteden-aan-samonlinemarketing-nl-een-slimme-zet-is"
 metaDescription: "Blog Waarom Google ads uitbesteden aan Samonlinemarketing.nl een slimme zet is Google Ads klinkt simpel. Je zet een advertentie aan, gooit er wat budget"
 ---

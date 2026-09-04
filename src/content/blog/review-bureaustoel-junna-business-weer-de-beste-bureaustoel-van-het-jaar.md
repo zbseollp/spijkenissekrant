@@ -1,7 +1,7 @@
 ---
 title: "Review: Bureaustoel Junna® Business wéér de beste bureaustoel van het jaar!"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-01-29"
+date: "2025-01-29"
 slug: "review-bureaustoel-junna-business-weer-de-beste-bureaustoel-van-het-jaar"
 metaDescription: "Blog Review: Bureaustoel Junna® Business wéér de beste bureaustoel van het jaar! Spijkenisse – Wie lange dagen maakt achter een bureau, weet hoe"
 ---

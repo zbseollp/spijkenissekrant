@@ -1,7 +1,7 @@
 ---
 title: "Wat je moet weten over allergieën: oorzaken, klachten en soorten"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-27"
+date: "2025-08-27"
 slug: "wat-je-moet-weten-over-allergieen-oorzaken-klachten-en-soorten"
 metaDescription: "Blog Wat je moet weten over allergieën: oorzaken, klachten en soorten Allergieën zijn inmiddels een bekend fenomeen: miljoenen mensen in Nederland hebben"
 ---

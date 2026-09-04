@@ -1,7 +1,7 @@
 ---
 title: "Slimme manieren om water te besparen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-04-26"
+date: "2024-04-26"
 slug: "slimme-manieren-om-water-te-besparen"
 metaDescription: "Blog Water is een kostbare hulpbron die we moeten koesteren en beschermen. Gelukkig zijn er vele technologische innovaties die ons kunnen helpen om water"
 ---

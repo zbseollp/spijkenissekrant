@@ -1,7 +1,7 @@
 ---
 title: "Dit is de vriend van Hélène Hendriks"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-12-23"
+date: "2024-12-23"
 slug: "helene-hendriks-vriend-partner"
 metaDescription: "Blog Hélène Hendriks, de populaire Nederlandse sportpresentatrice, is niet alleen een bekend gezicht op televisie, maar ook een meester in het bewaken van"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-05-30"
+date: "2025-05-30"
 slug: "de-rechte-keuken-strakke-elegantie-en-praktische-ruimteoptimalisatie"
 metaDescription: "Blog De rechte keuken: strakke elegantie en praktische ruimteoptimalisatie Ben je op zoek naar een keuken die zowel stijlvol als functioneel is? Dan is de"
 ---

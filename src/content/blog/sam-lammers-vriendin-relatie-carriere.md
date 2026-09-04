@@ -1,7 +1,7 @@
 ---
 title: "Sam Lammers en zijn vriendin: heeft hij een liefde op dit moment?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-03-06"
+date: "2025-03-06"
 slug: "sam-lammers-vriendin-relatie-carriere"
 metaDescription: "Blog Sam Lammers en zijn vriendin: heeft hij een liefde op dit moment? Sam Lammers, geboren op 30 april 1997 in Tilburg, is een Nederlandse profvoetballer"
 ---

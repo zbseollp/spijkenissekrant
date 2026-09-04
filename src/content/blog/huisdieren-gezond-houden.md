@@ -1,7 +1,7 @@
 ---
 title: "Hoe zorg je ervoor dat jouw huisdieren gezond blijven"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-09-18"
+date: "2024-09-18"
 slug: "huisdieren-gezond-houden"
 metaDescription: "Nieuws Zou jij graag willen weten hoe je ervoor kunt zorgen dat jouw huisdieren zo gezond mogelijk blijven? Er zijn meerdere facetten die hier een rol in"
 ---

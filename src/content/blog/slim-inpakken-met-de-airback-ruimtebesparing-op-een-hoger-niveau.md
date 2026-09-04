@@ -1,7 +1,7 @@
 ---
 title: "Slim inpakken met de Airback: ruimtebesparing op een hoger niveau"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-12-17"
+date: "2024-12-17"
 slug: "slim-inpakken-met-de-airback-ruimtebesparing-op-een-hoger-niveau"
 metaDescription: "Blog Inpakken voor een reis kan soms voelen als een ingewikkelde puzzel. Hoe krijg je alles in je tas zonder dat het een chaotische bende wordt? Met de"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "De heropleving van chelsea boots en cowboy laarzen voor dames"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-10-30"
+date: "2024-10-30"
 slug: "de-heropleving-van-chelsea-boots-en-cowboy-laarzen-voor-dames"
 metaDescription: "Nieuws Bij mode zijn bepaalde stijlen tijdloos en blijven ze steeds opnieuw terugkomen. Twee van deze iconische schoen stijlen zijn Chelsea boots en"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Steeds meer ondernemers in Spijkenisse kiezen voor Financial lease"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-10-15"
+date: "2024-10-15"
 slug: "steeds-meer-ondernemers-in-spijkenisse-kiezen-voor-financial-lease"
 metaDescription: "Nieuws Het lijkt wel of Financial lease dé trend is geworden onder ondernemers in Spijkenisse. Wat ooit misschien als een serieuze en droge manier van"
 ---

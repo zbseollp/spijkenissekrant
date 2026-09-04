@@ -1,7 +1,7 @@
 ---
 title: "Creatieve ideeën om kleine ruimtes efficiënter te gebruiken"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-11-02"
+date: "2024-11-02"
 slug: "creatieve-ideeen-om-kleine-ruimtes-efficienter-te-gebruiken"
 metaDescription: "Blog Creatieve ideeën om kleine ruimtes efficiënter te gebruiken Het inrichten van een kleine ruimte is vaak een uitdaging. Je hebt slimme oplossingen"
 ---

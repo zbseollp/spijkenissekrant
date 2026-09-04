@@ -1,7 +1,7 @@
 ---
 title: "Waarom kiezen voor een verhuisbedrijf in Spijkenisse van Student Verhuis Service?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-03-22"
+date: "2025-03-22"
 slug: "waarom-kiezen-voor-een-verhuisbedrijf-in-spijkenisse-van-student-verhuis-service"
 metaDescription: "Nieuws Verhuizen kan een intensieve en stressvolle klus zijn, vooral als je niet over de juiste middelen en ervaring beschikt. Of je nu naar Spijkenisse"
 ---

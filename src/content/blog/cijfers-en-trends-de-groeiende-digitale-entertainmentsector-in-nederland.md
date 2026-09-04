@@ -1,7 +1,7 @@
 ---
 title: "Cijfers en Trends: De Groeiende Digitale Entertainmentsector in Nederland"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-07-15"
+date: "2025-07-15"
 slug: "cijfers-en-trends-de-groeiende-digitale-entertainmentsector-in-nederland"
 metaDescription: "Blog Cijfers en Trends: De Groeiende Digitale Entertainmentsector in Nederland De wereld van digitale entertainment groeit razendsnel en Nederland vormt"
 ---

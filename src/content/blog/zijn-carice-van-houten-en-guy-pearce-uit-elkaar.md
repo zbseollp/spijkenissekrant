@@ -1,7 +1,7 @@
 ---
 title: "Zijn Carice van Houten en Guy Pearce uit elkaar?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-12-23"
+date: "2024-12-23"
 slug: "zijn-carice-van-houten-en-guy-pearce-uit-elkaar"
 metaDescription: "Blog Carice van Houten, een gerenommeerde Nederlandse actrice, en Guy Pearce, een Australische acteur, vormen sinds 2015 een koppel. Ze leerden elkaar"
 ---

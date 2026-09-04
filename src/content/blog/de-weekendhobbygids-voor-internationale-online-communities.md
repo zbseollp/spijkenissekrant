@@ -1,7 +1,7 @@
 ---
 title: "De weekendhobbygids voor internationale online communities"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2025-08-12"
+date: "2025-08-12"
 slug: "de-weekendhobbygids-voor-internationale-online-communities"
 metaDescription: "Blog De weekendhobbygids voor internationale online communities Er zijn mensen die hun weekend het liefst vullen met sporten, tuinieren of bingewatchen,"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Wie is de vriend van Yibbi Jansen?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-02-16"
+date: "2026-02-16"
 slug: "yibbi-jansen-vriend"
 metaDescription: "Blog Tijdens de Olympische Spelen van 2024 zette Yibbi Jansen een indrukwekkende prestatie neer waarmee ze niet alleen zichzelf, maar ook haar familie en"
 ---

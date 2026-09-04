@@ -1,7 +1,7 @@
 ---
 title: "Duurzaam stoken met pelletkachels en gashaarden"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-10-14"
+date: "2024-10-14"
 slug: "duurzaam-stoken-met-pelletkachels-en-gashaarden"
 metaDescription: "Blog Bij verwarming zijn pelletkachels en gashaarden populaire keuzes voor veel huishoudens. Beide bieden een efficiënte manier om je huis te verwarmen en"
 ---
